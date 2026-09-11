@@ -1,0 +1,646 @@
+﻿Navire,IMO,Type,Port,Date_arrivee_rade,Date_depart_rade,Duree_en_rade,Duree_en_rade_heures,Raison,Jauge_brute_GT,Longueur_LOA_m,Tirant_eau_m,Navires_en_attente_rade,Indice_congestion_port,Conditions_meteo,Poste_a_quai_assigne,Jour_semaine,Mois,Annee
+MSC/CMA Star 8,IMO9996519,Porte-conteneurs,Port d'Alger,2022-01-01 02:30,2022-01-02 23:51,45h22,45.36,Attente poste à quai,67565,286.8,16.4,10,0.82,Beau temps,Q4,Samedi,1,2022
+MT Aurès 7,IMO9517033,Pétrolier,Port d'Alger,2022-01-03 01:45,2022-01-05 05:17,51h32,51.54,Attente pilote,37299,194.4,12.7,7,0.64,Houle,Q9,Lundi,1,2022
+MT Ocean 8,IMO9819065,Pétrolier,Port d'Alger,2022-01-08 12:05,2022-01-22 06:41,330h36,330.6,Encombrement quai sévère,17191,202.4,14.0,22,0.82,Mer agitée,Q3,Samedi,1,2022
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2022-01-11 02:00,2022-01-13 09:35,55h36,55.6,Encombrement quai,27798,219.0,12.1,4,0.16,Beau temps,Q2,Mardi,1,2022
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2022-01-12 03:45,2022-01-14 02:22,46h37,46.62,Attente poste à quai,56601,216.1,14.6,2,0.11,Beau temps,Q9,Mercredi,1,2022
+MV Bouzaréah 6,IMO9616113,Vraquier,Port d'Alger,2022-01-20 14:30,2022-01-22 06:17,39h47,39.79,Encombrement quai,64086,165.0,11.3,2,0.05,Beau temps,Q12,Jeudi,1,2022
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2022-01-20 15:15,2022-01-23 19:12,75h58,75.96,Encombrement quai,45450,218.8,13.3,4,0.66,Brouillard,Q7,Jeudi,1,2022
+MV Atlantic 6,IMO9420651,Cimentier,Port d'Alger,2022-01-21 16:20,2022-01-23 12:14,43h55,43.91,Mauvais temps,21028,148.6,9.4,2,0.1,Beau temps,Q4,Vendredi,1,2022
+MT Hoggar 7,IMO9526195,Pétrolier,Port d'Alger,2022-02-08 14:40,2022-02-10 12:04,45h25,45.41,Contrôle douanier,32093,220.7,12.3,3,0.71,Vent fort,Q12,Mardi,2,2022
+MV Sahara 9,IMO9337226,Cimentier,Port d'Alger,2022-02-09 12:40,2022-02-10 20:10,31h30,31.5,Attente poste à quai,19699,129.9,8.3,3,0.68,Beau temps,Q1,Mercredi,2,2022
+RoRo Mitidja 7,IMO9894905,Roulier (Ro-Ro),Port d'Alger,2022-02-10 18:45,2022-02-11 11:40,16h56,16.93,Attente autorisation,13664,127.1,7.2,2,0.05,Houle,Q9,Jeudi,2,2022
+MV Aurès 7,IMO9168720,Vraquier,Port d'Alger,2022-02-11 10:30,2022-02-13 13:58,51h29,51.48,Attente poste à quai,27227,211.0,11.6,4,0.68,Vent fort,Q6,Vendredi,2,2022
+MSC/CMA Atlantic 6,IMO9905674,Porte-conteneurs,Port d'Alger,2022-02-23 02:40,2022-02-26 03:17,72h37,72.62,Encombrement quai,80584,279.7,17.8,12,0.79,Beau temps,Q7,Mercredi,2,2022
+MT Sahel 3,IMO9225772,Pétrolier,Port d'Alger,2022-02-23 19:30,2022-02-25 08:18,36h48,36.8,Attente pilote,46141,208.7,12.0,4,0.3,Vent fort,Q6,Mercredi,2,2022
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2022-02-25 02:45,2022-02-26 16:37,37h53,37.88,Attente marchandise,37165,178.5,10.1,3,0.05,Beau temps,Q7,Vendredi,2,2022
+MV Atlantic 5,IMO9871662,Vraquier,Port d'Alger,2022-02-25 23:50,2022-02-28 18:59,67h10,67.16,Encombrement quai,19998,209.0,12.0,5,0.73,Mer agitée,Q11,Vendredi,2,2022
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2022-02-26 12:00,2022-03-01 00:01,60h01,60.02,Attente autorisation,30992,192.2,10.7,7,0.85,Vent fort,Q4,Samedi,2,2022
+MSC/CMA Endeavour 4,IMO9877340,Porte-conteneurs,Port d'Alger,2022-02-27 22:40,2022-03-02 20:47,70h08,70.13,Attente grue,36715,225.7,13.5,9,0.84,Brouillard,Q9,Dimanche,2,2022
+MV Bouzaréah 2,IMO9720775,Céréalier,Port d'Alger,2022-03-08 07:30,2022-03-10 22:40,63h11,63.18,Attente marchandise,29079,216.4,14.4,5,0.1,Beau temps,Q11,Mardi,3,2022
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2022-03-08 14:30,2022-03-10 01:09,34h40,34.66,Attente poste à quai,60772,165.5,10.0,9,0.5,Beau temps,Q4,Mardi,3,2022
+RoRo Sahara 8,IMO9800152,Roulier (Ro-Ro),Port d'Alger,2022-03-08 19:15,2022-03-09 18:19,23h04,23.07,Attente poste à quai,34540,142.5,9.7,3,0.31,Beau temps,Q9,Mardi,3,2022
+MT Levant 4,IMO9071269,Pétrolier,Port d'Alger,2022-03-11 02:00,2022-03-13 01:31,47h32,47.53,Attente poste à quai,64155,233.8,15.9,7,0.66,Vent fort,Q4,Vendredi,3,2022
+MV Zaccar 4,IMO9690420,Vraquier,Port d'Alger,2022-03-14 06:10,2022-03-20 18:10,156h00,156.0,Conflit social au port,26617,157.0,10.2,19,0.9,Mer agitée,Q12,Lundi,3,2022
+MV Emeraude 1,IMO9876822,Vraquier,Port d'Alger,2022-03-18 05:45,2022-03-20 20:08,62h24,62.39,Encombrement quai,35007,126.4,8.8,8,0.69,Beau temps,Q3,Vendredi,3,2022
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2022-03-26 00:10,2022-03-28 01:28,49h19,49.31,Encombrement quai,29924,151.8,9.3,4,0.63,Vent fort,Q11,Samedi,3,2022
+RoRo Mitidja 4,IMO9784645,Roulier (Ro-Ro),Port d'Alger,2022-03-27 00:45,2022-03-29 03:28,50h43,50.72,Attente pilote,9744,186.9,11.7,7,0.95,Vent fort,Q6,Dimanche,3,2022
+MV Pioneer 5,IMO9077103,Vraquier,Port d'Alger,2022-04-03 12:00,2022-04-06 22:55,82h56,82.93,Encombrement quai,62494,142.1,8.0,10,0.65,Beau temps,Q9,Dimanche,4,2022
+MSC/CMA Horizon 6,IMO9454730,Porte-conteneurs,Port d'Alger,2022-04-04 09:30,2022-04-07 07:07,69h37,69.62,Attente pilote,61779,295.0,18.8,11,1.0,Houle,Q6,Lundi,4,2022
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2022-04-05 10:00,2022-04-07 05:40,43h40,43.67,Attente déchargement,25154,197.9,11.1,3,0.34,Beau temps,Q9,Mardi,4,2022
+MV Emeraude 1,IMO9579720,Vraquier,Port d'Alger,2022-04-05 15:40,2022-04-08 11:11,67h31,67.52,Encombrement quai,33888,165.4,11.4,6,0.85,Vent fort,Q4,Mardi,4,2022
+MV Ocean 6,IMO9578944,Cimentier,Port d'Alger,2022-04-07 12:45,2022-04-10 10:35,69h51,69.84,Mauvais temps,15473,136.2,7.7,10,0.93,Beau temps,Q5,Jeudi,4,2022
+MV Hoggar 1,IMO9146942,Vraquier,Port d'Alger,2022-04-10 07:00,2022-04-12 18:42,59h42,59.71,Attente marchandise,11225,161.1,11.1,6,0.45,Beau temps,Q4,Dimanche,4,2022
+MSC/CMA Atlas 1,IMO9723255,Porte-conteneurs,Port d'Alger,2022-04-10 19:00,2022-04-13 01:16,54h17,54.28,Attente grue,103370,154.6,10.5,6,0.98,Beau temps,Q7,Dimanche,4,2022
+RoRo Baltic 4,IMO9636553,Roulier (Ro-Ro),Port d'Alger,2022-04-11 19:50,2022-04-13 00:48,28h58,28.97,Attente poste à quai,17931,156.4,8.6,4,0.41,Vent fort,Q11,Lundi,4,2022
+MV Kabylie 3,IMO9668061,Vraquier,Port d'Alger,2022-04-15 02:45,2022-04-17 00:54,46h10,46.16,Attente déchargement,8820,132.8,7.4,4,0.35,Brouillard,Q12,Vendredi,4,2022
+MSC/CMA Meridian 3,IMO9078501,Porte-conteneurs,Port d'Alger,2022-04-22 00:15,2022-04-24 12:00,59h46,59.76,Encombrement quai,49307,202.4,12.9,8,1.0,Vent fort,Q4,Vendredi,4,2022
+MT Ocean 8,IMO9209374,Pétrolier,Port d'Alger,2022-04-22 11:00,2022-04-24 10:25,47h25,47.42,Attente autorisation,86435,174.7,11.9,6,0.72,Beau temps,Q3,Vendredi,4,2022
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2022-04-23 09:15,2022-04-26 10:31,73h17,73.28,Attente poste à quai,42848,211.2,14.8,8,0.67,Beau temps,Q3,Samedi,4,2022
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2022-04-26 11:10,2022-04-29 05:57,66h48,66.79,Attente marchandise,29425,163.4,10.1,9,0.33,Beau temps,Q5,Mardi,4,2022
+MV Ocean 3,IMO9999072,Cimentier,Port d'Alger,2022-04-28 02:45,2022-04-30 11:55,57h10,57.17,Mauvais temps,26780,153.6,10.3,7,0.54,Beau temps,Q11,Jeudi,4,2022
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2022-04-29 07:10,2022-05-01 22:39,63h30,63.49,Attente déchargement,11622,154.2,9.2,8,0.35,Vent fort,Q3,Vendredi,4,2022
+MV Neptune 1,IMO9626727,Cimentier,Port d'Alger,2022-04-30 13:35,2022-05-09 04:39,207h04,207.07,Encombrement quai sévère,19060,138.9,7.8,14,0.9,Vent fort,Q9,Samedi,4,2022
+MSC/CMA Aurès 6,IMO9738253,Porte-conteneurs,Port d'Alger,2022-05-02 18:40,2022-05-04 15:15,44h36,44.6,Encombrement quai,23064,203.2,12.9,6,0.52,Beau temps,Q9,Lundi,5,2022
+MV Aurès 4,IMO9014673,Vraquier,Port d'Alger,2022-05-04 01:10,2022-05-11 03:36,170h26,170.44,Encombrement quai sévère,45497,231.9,7.8,12,0.98,Vent fort,Q11,Mercredi,5,2022
+MSC/CMA Corniche 7,IMO9735901,Porte-conteneurs,Port d'Alger,2022-05-04 12:30,2022-05-06 00:15,35h46,35.76,Attente pilote,81539,239.0,13.2,6,0.78,Beau temps,Q5,Mercredi,5,2022
+MSC/CMA Ocean 8,IMO9551002,Porte-conteneurs,Port d'Alger,2022-05-08 22:15,2022-05-10 21:46,47h31,47.52,Attente pilote,43391,276.4,16.5,12,0.9,Beau temps,Q8,Dimanche,5,2022
+MV Horizon 4,IMO9753448,Vraquier,Port d'Alger,2022-05-09 03:50,2022-05-11 04:53,49h03,49.05,Encombrement quai,56485,181.7,11.4,4,0.43,Beau temps,Q1,Lundi,5,2022
+MV Emeraude 9,IMO9111291,Vraquier,Port d'Alger,2022-05-10 23:00,2022-05-13 09:50,58h51,58.85,Attente marchandise,37054,153.0,8.8,5,1.0,Beau temps,Q10,Mardi,5,2022
+MSC/CMA Cirta 8,IMO9528313,Porte-conteneurs,Port d'Alger,2022-05-11 15:50,2022-05-13 01:32,33h42,33.71,Attente poste à quai,74914,154.6,10.7,6,0.41,Beau temps,Q12,Mercredi,5,2022
+MV Emeraude 8,IMO9033276,Vraquier,Port d'Alger,2022-05-11 17:00,2022-05-13 16:56,47h56,47.94,Attente déchargement,48431,138.4,9.2,6,0.66,Beau temps,Q3,Mercredi,5,2022
+MV Cristal 6,IMO9128479,Vraquier,Port d'Alger,2022-05-13 06:50,2022-05-15 17:25,58h35,58.58,Encombrement quai,35576,166.0,10.0,8,0.8,Beau temps,Q1,Vendredi,5,2022
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2022-05-18 08:10,2022-05-20 14:20,54h11,54.18,Attente pilote,74253,165.3,10.0,8,1.0,Beau temps,Q6,Mercredi,5,2022
+MSC/CMA Baltic 6,IMO9139890,Porte-conteneurs,Port d'Alger,2022-05-19 11:20,2022-05-20 22:13,34h54,34.89,Encombrement quai,62380,297.7,19.8,1,0.4,Beau temps,Q11,Jeudi,5,2022
+RoRo Hoggar 1,IMO9651517,Roulier (Ro-Ro),Port d'Alger,2022-05-21 20:00,2022-05-22 21:27,25h27,25.45,Attente poste à quai,13970,142.8,8.2,5,0.27,Beau temps,Q8,Samedi,5,2022
+MT Levant 9,IMO9347235,Pétrolier,Port d'Alger,2022-05-23 08:40,2022-05-24 20:57,36h17,36.29,Attente poste à quai,53962,194.2,13.3,2,0.3,Houle,Q5,Lundi,5,2022
+MV Atlantic 9,IMO9562632,Vraquier,Port d'Alger,2022-05-25 10:20,2022-06-03 14:06,219h46,219.77,Grève des dockers,66199,160.9,12.7,19,0.81,Vent fort,Q11,Mercredi,5,2022
+RoRo Djurdjura 7,IMO9902628,Roulier (Ro-Ro),Port d'Alger,2022-05-26 16:00,2022-05-28 07:32,39h32,39.54,Attente autorisation,21644,163.9,9.4,8,0.84,Houle,Q6,Jeudi,5,2022
+MV Poseidon 2,IMO9709570,Vraquier,Port d'Alger,2022-05-26 22:00,2022-05-28 22:09,48h09,48.15,Attente poste à quai,37571,197.3,11.9,5,0.23,Houle,Q9,Jeudi,5,2022
+MV Kabylie 1,IMO9901384,Vraquier,Port d'Alger,2022-05-29 02:50,2022-06-03 21:18,138h28,138.47,Saturation totale du port,49360,232.9,11.4,15,0.84,Vent fort,Q8,Dimanche,5,2022
+MSC/CMA Neptune 7,IMO9518392,Porte-conteneurs,Port d'Alger,2022-05-30 14:45,2022-05-31 23:53,33h08,33.14,Attente pilote,118663,172.6,11.0,7,0.36,Beau temps,Q11,Lundi,5,2022
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2022-05-31 02:30,2022-06-03 19:53,89h23,89.39,Attente silo disponible,44325,152.7,9.9,11,0.82,Vent fort,Q12,Mardi,5,2022
+MT Ocean 9,IMO9361249,Pétrolier,Port d'Alger,2022-06-01 04:40,2022-06-03 02:31,45h52,45.86,Attente autorisation,55763,201.3,12.0,6,0.79,Beau temps,Q3,Mercredi,6,2022
+MSC/CMA Emeraude 7,IMO9570053,Porte-conteneurs,Port d'Alger,2022-06-01 14:50,2022-06-04 06:28,63h38,63.64,Encombrement quai,75300,250.1,16.7,15,1.0,Beau temps,Q12,Mercredi,6,2022
+MSC/CMA Endeavour 8,IMO9714220,Porte-conteneurs,Port d'Alger,2022-06-04 05:50,2022-06-06 03:46,45h56,45.94,Encombrement quai,42280,264.0,15.1,2,0.56,Houle,Q11,Samedi,6,2022
+MSC/CMA Bouzaréah 9,IMO9830281,Porte-conteneurs,Port d'Alger,2022-06-07 20:10,2022-06-09 09:04,36h55,36.91,Attente poste à quai,84232,284.3,18.4,6,0.66,Vent fort,Q8,Mardi,6,2022
+MV Voyager 5,IMO9027121,Céréalier,Port d'Alger,2022-06-14 19:00,2022-06-17 17:32,70h33,70.55,Attente poste à quai,50572,162.3,11.2,4,0.48,Beau temps,Q11,Mardi,6,2022
+MSC/CMA Levant 7,IMO9096168,Porte-conteneurs,Port d'Alger,2022-06-21 05:30,2022-06-22 10:26,28h57,28.95,Attente pilote,76715,177.7,10.7,2,0.76,Houle,Q8,Mardi,6,2022
+MV Atlantic 3,IMO9562445,Vraquier,Port d'Alger,2022-06-21 09:10,2022-06-23 16:54,55h44,55.74,Attente poste à quai,13895,164.2,10.8,2,0.97,Beau temps,Q5,Mardi,6,2022
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2022-06-22 16:15,2022-06-25 12:56,68h41,68.69,Encombrement quai,56333,168.6,9.3,7,0.69,Beau temps,Q9,Mercredi,6,2022
+MT Djurdjura 9,IMO9097992,Pétrolier,Port d'Alger,2022-06-23 09:45,2022-06-25 14:19,52h34,52.57,Contrôle douanier,75422,171.4,10.7,11,0.64,Mer agitée,Q9,Jeudi,6,2022
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2022-06-23 21:15,2022-06-25 16:16,43h01,43.02,Attente poste à quai,38978,155.7,9.7,10,1.0,Beau temps,Q6,Jeudi,6,2022
+MT Star 1,IMO9590579,Pétrolier,Port d'Alger,2022-06-24 03:20,2022-06-26 17:54,62h34,62.57,Contrôle douanier,20080,169.6,11.7,9,1.0,Brouillard,Q6,Vendredi,6,2022
+MV Atlas 8,IMO9163917,Cimentier,Port d'Alger,2022-06-27 09:50,2022-06-29 18:52,57h03,57.04,Attente poste à quai,20935,156.1,9.7,11,1.0,Beau temps,Q12,Lundi,6,2022
+MT Sahel 3,IMO9225772,Pétrolier,Port d'Alger,2022-06-29 02:00,2022-07-01 05:08,51h09,51.15,Attente autorisation,14182,235.3,13.6,8,1.0,Mer agitée,Q5,Mercredi,6,2022
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2022-06-30 10:30,2022-07-02 18:01,55h32,55.53,Attente poste à quai,38888,216.0,14.3,9,0.55,Beau temps,Q11,Jeudi,6,2022
+MV Chenoua 2,IMO9367506,Vraquier,Port d'Alger,2022-07-01 22:40,2022-07-03 16:54,42h15,42.25,Attente poste à quai,43415,199.1,11.3,4,0.98,Beau temps,Q12,Vendredi,7,2022
+LNG Kabylie 2,IMO9097251,Gazier,Port d'Alger,2022-07-02 07:40,2022-07-04 12:40,53h00,53.01,Attente autorisation,18159,196.1,12.4,8,1.0,Beau temps,Q6,Samedi,7,2022
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2022-07-06 22:10,2022-07-09 08:42,58h33,58.55,Attente déchargement,20786,144.9,9.7,7,0.92,Beau temps,Q9,Mercredi,7,2022
+LNG Cristal 3,IMO9735499,Gazier,Port d'Alger,2022-07-15 04:45,2022-07-16 20:56,40h12,40.2,Attente poste à quai,36326,135.6,8.3,4,0.75,Houle,Q3,Vendredi,7,2022
+MV Pioneer 3,IMO9992921,Céréalier,Port d'Alger,2022-07-19 15:15,2022-07-23 03:32,84h17,84.29,Attente marchandise,41112,213.7,14.1,11,1.0,Mer agitée,Q11,Mardi,7,2022
+MT Baltic 7,IMO9811131,Pétrolier,Port d'Alger,2022-07-20 13:20,2022-07-22 13:42,48h23,48.38,Attente pilote,82627,200.7,11.6,11,0.96,Beau temps,Q8,Mercredi,7,2022
+MV Star 9,IMO9439898,Vraquier,Port d'Alger,2022-07-23 20:50,2022-07-26 00:58,52h09,52.15,Attente poste à quai,59183,129.3,7.9,4,0.87,Beau temps,Q7,Samedi,7,2022
+MSC/CMA Mitidja 5,IMO9717659,Porte-conteneurs,Port d'Alger,2022-07-29 00:40,2022-07-30 17:51,41h11,41.19,Attente poste à quai,79745,156.1,9.3,8,1.0,Beau temps,Q6,Vendredi,7,2022
+MV Cirta 7,IMO9291476,Vraquier,Port d'Alger,2022-07-30 18:10,2022-08-02 08:07,61h57,61.95,Attente poste à quai,47999,181.2,10.9,6,0.99,Beau temps,Q4,Samedi,7,2022
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2022-08-02 15:15,2022-08-05 09:24,66h09,66.15,Attente marchandise,12013,214.1,14.5,7,0.99,Beau temps,Q3,Mardi,8,2022
+MV Levant 3,IMO9365249,Vraquier,Port d'Alger,2022-08-03 09:45,2022-08-06 12:58,75h14,75.23,Encombrement quai,50765,136.7,8.5,6,1.0,Beau temps,Q4,Mercredi,8,2022
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2022-08-12 04:10,2022-08-14 14:14,58h04,58.07,Attente poste à quai,10775,130.8,7.3,7,1.0,Beau temps,Q9,Vendredi,8,2022
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2022-08-12 19:20,2022-08-14 06:51,35h31,35.52,Attente pilote,57450,229.6,14.7,7,0.83,Houle,Q11,Vendredi,8,2022
+MV Kabylie 9,IMO9463303,Vraquier,Port d'Alger,2022-08-18 01:20,2022-08-20 00:10,46h50,46.84,Attente déchargement,32238,124.1,7.1,1,0.72,Beau temps,Q12,Jeudi,8,2022
+RoRo Pioneer 8,IMO9675990,Roulier (Ro-Ro),Port d'Alger,2022-08-23 05:00,2022-08-24 16:28,35h29,35.48,Attente autorisation,28808,127.2,8.8,5,1.0,Beau temps,Q11,Mardi,8,2022
+MV Sahara 3,IMO9635324,Vraquier,Port d'Alger,2022-08-23 18:20,2022-08-25 23:51,53h32,53.53,Attente poste à quai,17740,193.6,13.3,5,0.34,Mer agitée,Q3,Mardi,8,2022
+MV Aurès 4,IMO9541058,Céréalier,Port d'Alger,2022-08-24 00:40,2022-08-25 22:50,46h10,46.17,Attente silo disponible,47677,213.7,13.4,6,1.0,Beau temps,Q6,Mercredi,8,2022
+RoRo Neptune 7,IMO9706995,Roulier (Ro-Ro),Port d'Alger,2022-08-25 11:50,2022-08-27 04:21,40h32,40.53,Attente pilote,31553,145.6,9.1,7,1.0,Vent fort,Q5,Jeudi,8,2022
+MV Bouzaréah 6,IMO9703055,Vraquier,Port d'Alger,2022-08-26 03:20,2022-08-29 02:50,71h31,71.51,Encombrement quai,15499,198.7,13.6,6,0.48,Houle,Q10,Vendredi,8,2022
+RoRo Diamant 6,IMO9423555,Roulier (Ro-Ro),Port d'Alger,2022-08-29 10:55,2022-09-07 07:20,212h25,212.42,Attente silo disponible (saturation),38099,192.2,11.1,14,0.89,Vent fort,Q8,Lundi,8,2022
+MV Djurdjura 8,IMO9160626,Vraquier,Port d'Alger,2022-08-29 20:30,2022-09-01 15:32,67h03,67.04,Attente marchandise,24101,224.6,14.3,13,0.84,Beau temps,Q7,Lundi,8,2022
+MV Zaccar 5,IMO9746925,Vraquier,Port d'Alger,2022-08-30 00:40,2022-09-01 08:18,55h39,55.65,Attente poste à quai,56447,141.6,8.1,6,0.94,Brouillard,Q8,Mardi,8,2022
+MV Voyager 5,IMO9727691,Vraquier,Port d'Alger,2022-08-30 08:30,2022-09-02 03:03,66h33,66.55,Encombrement quai,41813,218.2,12.6,3,0.55,Houle,Q4,Mardi,8,2022
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2022-08-31 14:30,2022-09-02 15:58,49h28,49.47,Encombrement quai,74227,203.8,13.2,6,0.83,Beau temps,Q12,Mercredi,8,2022
+MV Chenoua 9,IMO9398855,Cimentier,Port d'Alger,2022-08-31 17:45,2022-09-02 00:00,30h16,30.26,Attente déchargement,21473,101.9,5.9,2,0.35,Beau temps,Q5,Mercredi,8,2022
+MV Zaccar 7,IMO9689305,Vraquier,Port d'Alger,2022-09-03 18:20,2022-09-06 00:17,53h57,53.96,Attente marchandise,40493,130.7,8.4,7,0.16,Mer agitée,Q5,Samedi,9,2022
+MT Sahara 3,IMO9304561,Pétrolier,Port d'Alger,2022-09-07 18:45,2022-09-09 21:10,50h25,50.42,Attente poste à quai,64225,210.8,12.5,7,0.66,Beau temps,Q6,Mercredi,9,2022
+RoRo Bouzaréah 2,IMO9849884,Roulier (Ro-Ro),Port d'Alger,2022-09-09 04:10,2022-09-10 10:05,29h56,29.93,Attente autorisation,34603,167.9,9.5,7,0.29,Mer agitée,Q11,Vendredi,9,2022
+MT Atlantic 3,IMO9259822,Pétrolier,Port d'Alger,2022-09-10 18:45,2022-09-12 16:59,46h14,46.24,Attente poste à quai,71229,175.3,11.9,7,0.61,Beau temps,Q4,Samedi,9,2022
+MV Neptune 1,IMO9315743,Vraquier,Port d'Alger,2022-09-11 17:30,2022-09-14 09:21,63h51,63.86,Attente poste à quai,24514,146.3,8.5,9,0.85,Beau temps,Q11,Dimanche,9,2022
+MV Diamant 7,IMO9355505,Céréalier,Port d'Alger,2022-09-12 11:45,2022-09-16 17:08,101h24,101.4,Encombrement quai,53722,212.3,11.9,8,0.38,Brouillard,Q12,Lundi,9,2022
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2022-09-20 21:20,2022-09-23 05:54,56h35,56.58,Attente poste à quai,26514,192.9,12.2,13,0.92,Beau temps,Q6,Mardi,9,2022
+MSC/CMA Star 2,IMO9610610,Porte-conteneurs,Port d'Alger,2022-09-25 06:45,2022-09-26 21:58,39h13,39.22,Attente poste à quai,72601,210.4,13.2,5,0.6,Mer agitée,Q1,Dimanche,9,2022
+MV Sahara 1,IMO9393417,Vraquier,Port d'Alger,2022-09-26 06:00,2022-09-28 15:48,57h49,57.81,Attente marchandise,26281,141.1,8.4,11,0.95,Houle,Q9,Lundi,9,2022
+MSC/CMA Mitidja 8,IMO9283783,Porte-conteneurs,Port d'Alger,2022-09-26 13:50,2022-10-04 19:08,197h19,197.31,Panne système informatique portuaire,75149,298.5,9.0,22,0.92,Beau temps,Q4,Lundi,9,2022
+MV Sahel 5,IMO9747362,Vraquier,Port d'Alger,2022-09-28 20:15,2022-10-01 09:43,61h29,61.48,Attente marchandise,39875,176.6,10.0,7,0.95,Brouillard,Q7,Mercredi,9,2022
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2022-09-30 20:15,2022-10-02 12:43,40h29,40.48,Attente autorisation,76085,217.3,14.6,6,0.61,Beau temps,Q8,Vendredi,9,2022
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2022-09-30 20:40,2022-10-02 20:43,48h03,48.06,Attente autorisation,68164,206.2,14.3,6,0.55,Beau temps,Q12,Vendredi,9,2022
+MT Poseidon 7,IMO9634366,Pétrolier,Port d'Alger,2022-10-03 09:50,2022-10-05 20:12,58h22,58.37,Attente autorisation,41490,197.3,13.4,7,0.71,Mer agitée,Q8,Lundi,10,2022
+MSC/CMA Levant 3,IMO9795702,Porte-conteneurs,Port d'Alger,2022-10-09 01:30,2022-10-10 15:47,38h17,38.29,Attente grue,40932,285.9,16.8,4,0.34,Vent fort,Q10,Dimanche,10,2022
+RoRo Pioneer 2,IMO9745957,Roulier (Ro-Ro),Port d'Alger,2022-10-11 08:00,2022-10-12 10:54,26h54,26.91,Attente poste à quai,31541,199.9,13.8,5,0.32,Houle,Q5,Mardi,10,2022
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2022-10-14 23:50,2022-10-17 06:41,54h51,54.85,Attente poste à quai,34623,241.4,16.7,7,0.57,Brouillard,Q9,Vendredi,10,2022
+MV Tassili 7,IMO9194776,Vraquier,Port d'Alger,2022-10-17 16:45,2022-10-20 09:15,64h30,64.51,Attente déchargement,30937,217.3,14.9,6,0.69,Beau temps,Q9,Lundi,10,2022
+MSC/CMA Star 3,IMO9328638,Porte-conteneurs,Port d'Alger,2022-10-21 10:15,2022-10-23 12:44,50h30,50.5,Attente poste à quai,71231,221.5,13.5,11,0.69,Mer agitée,Q8,Vendredi,10,2022
+RoRo Zaccar 8,IMO9974054,Roulier (Ro-Ro),Port d'Alger,2022-10-21 21:45,2022-10-28 03:13,149h29,149.48,Tempête majeure / Fermeture du port,32699,192.5,11.0,17,0.9,Houle,Q6,Vendredi,10,2022
+MV Corniche 8,IMO9430817,Céréalier,Port d'Alger,2022-10-23 07:45,2022-11-04 02:14,282h29,282.49,Grève des dockers,48910,168.0,8.1,10,0.87,Houle,Q2,Dimanche,10,2022
+MT Meridian 2,IMO9378666,Pétrolier,Port d'Alger,2022-10-26 02:15,2022-10-28 06:59,52h44,52.74,Attente autorisation,66411,195.5,12.7,9,0.76,Beau temps,Q12,Mercredi,10,2022
+MV Endeavour 5,IMO9848749,Vraquier,Port d'Alger,2022-10-30 07:10,2022-10-31 22:32,39h22,39.37,Attente déchargement,28962,165.6,11.2,2,0.21,Beau temps,Q11,Dimanche,10,2022
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2022-10-31 13:15,2022-11-02 11:40,46h26,46.43,Attente poste à quai,9511,184.4,12.7,6,0.15,Houle,Q6,Lundi,10,2022
+MSC/CMA Cirta 5,IMO9909613,Porte-conteneurs,Port d'Alger,2022-10-31 18:10,2022-11-03 04:13,58h04,58.06,Encombrement quai,50923,294.2,18.1,10,0.53,Beau temps,Q7,Lundi,10,2022
+MV Sahara 5,IMO9687923,Vraquier,Port d'Alger,2022-11-04 10:10,2022-11-07 05:58,67h48,67.8,Encombrement quai,54508,214.8,14.5,8,0.19,Mer agitée,Q3,Vendredi,11,2022
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2022-11-09 06:40,2022-11-10 14:55,32h16,32.26,Contrôle douanier,14494,199.1,13.7,5,0.45,Houle,Q9,Mercredi,11,2022
+MT Zaccar 7,IMO9400156,Pétrolier,Port d'Alger,2022-11-10 20:15,2022-11-12 05:51,33h36,33.61,Contrôle douanier,25973,201.4,12.9,2,0.34,Mer agitée,Q9,Jeudi,11,2022
+MV Voyager 7,IMO9681403,Vraquier,Port d'Alger,2022-11-13 02:50,2022-11-15 21:49,66h59,66.99,Attente marchandise,46646,182.2,10.8,11,0.15,Beau temps,Q11,Dimanche,11,2022
+MSC/CMA Sahel 1,IMO9723811,Porte-conteneurs,Port d'Alger,2022-11-13 13:10,2022-11-14 10:22,21h13,21.22,Attente grue,52719,238.9,13.7,5,0.16,Beau temps,Q8,Dimanche,11,2022
+MV Ocean 7,IMO9509253,Vraquier,Port d'Alger,2022-11-15 05:00,2022-11-17 10:09,53h09,53.15,Encombrement quai,58164,191.6,12.1,8,0.33,Mer agitée,Q5,Mardi,11,2022
+MT Voyager 2,IMO9740380,Pétrolier,Port d'Alger,2022-11-21 18:20,2022-12-06 09:27,351h08,351.13,Conflit social au port,69410,156.4,12.8,22,0.91,Vent fort,Q2,Lundi,11,2022
+MV Star 9,IMO9439898,Vraquier,Port d'Alger,2022-11-24 10:40,2022-11-26 17:36,54h57,54.94,Encombrement quai,22782,141.4,7.9,6,0.49,Beau temps,Q8,Jeudi,11,2022
+MV Atlas 6,IMO9829179,Céréalier,Port d'Alger,2022-11-29 23:50,2022-12-02 18:08,66h18,66.3,Attente silo disponible,14898,209.1,14.6,11,0.5,Beau temps,Q3,Mardi,11,2022
+RoRo Diamant 1,IMO9172634,Roulier (Ro-Ro),Port d'Alger,2022-12-07 13:50,2022-12-08 10:11,20h22,20.37,Attente autorisation,30140,172.2,10.1,6,0.19,Beau temps,Q5,Mercredi,12,2022
+MV Hoggar 9,IMO9689171,Cimentier,Port d'Alger,2022-12-08 02:40,2022-12-17 03:49,217h10,217.16,Panne système informatique portuaire,14821,116.0,8.5,15,0.89,Mer agitée,Q9,Jeudi,12,2022
+MV Cristal 3,IMO9108751,Vraquier,Port d'Alger,2022-12-08 03:15,2022-12-11 13:14,82h00,82.0,Encombrement quai,11140,167.0,10.4,8,0.78,Beau temps,Q10,Jeudi,12,2022
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2022-12-08 15:30,2022-12-11 10:09,66h40,66.67,Attente poste à quai,33035,199.3,11.9,8,0.78,Houle,Q6,Jeudi,12,2022
+MT Atlas 7,IMO9716400,Pétrolier,Port d'Alger,2022-12-11 18:45,2022-12-14 04:11,57h27,57.45,Attente pilote,30892,219.5,13.9,8,0.68,Beau temps,Q4,Dimanche,12,2022
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2022-12-12 00:40,2022-12-14 08:51,56h11,56.19,Attente pilote,39405,127.8,7.6,10,0.9,Vent fort,Q7,Lundi,12,2022
+LNG Sahel 2,IMO9390722,Gazier,Port d'Alger,2022-12-16 10:40,2022-12-18 18:42,56h03,56.05,Attente poste à quai,25402,205.4,13.2,9,0.76,Vent fort,Q2,Vendredi,12,2022
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2022-12-20 15:10,2022-12-23 18:36,75h27,75.44,Attente silo disponible,65201,178.5,10.2,10,0.62,Beau temps,Q1,Mardi,12,2022
+MT Pioneer 5,IMO9136384,Pétrolier,Port d'Alger,2022-12-22 23:10,2022-12-25 08:00,56h51,56.85,Attente pilote,71578,231.1,14.1,13,0.78,Beau temps,Q1,Jeudi,12,2022
+MSC/CMA Aurès 3,IMO9066165,Porte-conteneurs,Port d'Alger,2022-12-25 21:50,2022-12-27 23:14,49h24,49.4,Attente grue,67270,165.8,10.8,6,0.27,Vent fort,Q1,Dimanche,12,2022
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2022-12-29 13:00,2022-12-31 16:03,51h04,51.06,Contrôle douanier,32562,167.7,11.1,8,0.24,Vent fort,Q11,Jeudi,12,2022
+MV Tassili 6,IMO9528597,Vraquier,Port d'Alger,2022-12-29 22:15,2023-01-01 23:04,72h49,72.82,Encombrement quai,64962,143.3,8.5,10,0.95,Houle,Q10,Jeudi,12,2022
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2022-12-30 10:00,2023-01-02 00:09,62h10,62.16,Attente autorisation,23508,155.4,10.2,10,0.87,Vent fort,Q2,Vendredi,12,2022
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2023-01-01 18:30,2023-01-02 16:41,22h11,22.19,Attente pilote,10691,176.1,9.9,3,0.05,Beau temps,Q6,Dimanche,1,2023
+MT Aurès 8,IMO9420780,Pétrolier,Port d'Alger,2023-01-02 07:20,2023-01-14 20:53,301h33,301.55,Encombrement quai sévère,82212,200.0,16.0,12,0.88,Houle,Q2,Lundi,1,2023
+MSC/CMA Hoggar 9,IMO9989723,Porte-conteneurs,Port d'Alger,2023-01-13 03:15,2023-01-19 00:47,141h32,141.54,Tempête majeure / Fermeture du port,57105,289.0,10.0,10,0.83,Mer agitée,Q2,Vendredi,1,2023
+MV Voyager 4,IMO9678720,Vraquier,Port d'Alger,2023-01-19 08:30,2023-01-21 18:29,58h00,58.0,Encombrement quai,24280,200.8,11.1,6,0.55,Beau temps,Q9,Jeudi,1,2023
+LNG Bouzaréah 2,IMO9850360,Gazier,Port d'Alger,2023-01-21 10:50,2023-01-23 03:45,40h56,40.93,Attente autorisation,12883,135.7,7.5,7,0.24,Houle,Q12,Samedi,1,2023
+MV Mitidja 3,IMO9908100,Céréalier,Port d'Alger,2023-01-25 07:45,2023-01-29 15:41,103h56,103.94,Attente prolongée poste à quai,29383,170.7,14.6,18,0.85,Vent fort,Q8,Mercredi,1,2023
+MT Cirta 1,IMO9411987,Pétrolier,Port d'Alger,2023-01-25 13:30,2023-01-27 05:01,39h31,39.52,Contrôle douanier,72652,162.2,10.5,3,0.55,Mer agitée,Q3,Mercredi,1,2023
+MV Ocean 3,IMO9658765,Céréalier,Port d'Alger,2023-01-25 19:30,2023-01-28 03:25,55h55,55.92,Attente poste à quai,14297,183.6,10.4,4,0.22,Beau temps,Q5,Mercredi,1,2023
+MSC/CMA Numidia 2,IMO9197303,Porte-conteneurs,Port d'Alger,2023-01-26 01:30,2023-01-27 06:21,28h51,28.86,Attente pilote,93580,287.2,17.7,3,0.23,Vent fort,Q8,Jeudi,1,2023
+MT Cristal 3,IMO9180516,Pétrolier,Port d'Alger,2023-01-27 16:45,2023-02-11 12:10,355h26,355.43,Pénurie de pilotes,50636,241.1,14.2,22,0.83,Mer agitée,Q3,Vendredi,1,2023
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2023-01-28 06:50,2023-01-29 14:24,31h35,31.58,Attente pilote,52991,242.0,14.6,3,0.05,Brouillard,Q2,Samedi,1,2023
+MV Star 9,IMO9439898,Vraquier,Port d'Alger,2023-01-28 06:50,2023-01-30 01:49,42h59,42.99,Attente déchargement,45619,209.9,13.3,2,0.05,Beau temps,Q2,Samedi,1,2023
+MT Neptune 9,IMO9132731,Pétrolier,Port d'Alger,2023-02-02 09:20,2023-02-03 12:27,27h08,27.13,Attente poste à quai,49869,191.9,13.2,3,0.05,Beau temps,Q9,Jeudi,2,2023
+LNG Pioneer 3,IMO9352595,Gazier,Port d'Alger,2023-02-03 06:15,2023-02-17 00:33,330h19,330.31,Tempête majeure / Fermeture du port,25685,140.6,7.5,16,0.82,Mer agitée,Q9,Vendredi,2,2023
+MV Star 9,IMO9439898,Vraquier,Port d'Alger,2023-02-07 23:20,2023-02-10 01:31,50h12,50.2,Attente poste à quai,8404,194.8,13.1,4,0.76,Brouillard,Q3,Mardi,2,2023
+MSC/CMA Emeraude 5,IMO9866785,Porte-conteneurs,Port d'Alger,2023-02-10 13:10,2023-02-11 02:05,12h56,12.93,Attente poste à quai,81515,188.7,10.8,4,0.05,Beau temps,Q3,Vendredi,2,2023
+MV Hoggar 6,IMO9737606,Cimentier,Port d'Alger,2023-02-11 19:20,2023-02-14 06:04,58h45,58.74,Attente poste à quai,24156,121.3,8.1,12,0.84,Beau temps,Q1,Samedi,2,2023
+MSC/CMA Aurès 4,IMO9076661,Porte-conteneurs,Port d'Alger,2023-02-11 21:20,2023-02-19 14:16,184h56,184.94,Pénurie de pilotes,63592,152.3,13.5,11,0.83,Beau temps,Q1,Samedi,2,2023
+MV Sahara 8,IMO9943313,Céréalier,Port d'Alger,2023-02-16 22:30,2023-02-18 20:03,45h33,45.55,Attente poste à quai,65922,206.6,13.3,7,0.05,Beau temps,Q4,Jeudi,2,2023
+MV Emeraude 2,IMO9091254,Vraquier,Port d'Alger,2023-02-18 20:15,2023-02-21 12:35,64h20,64.33,Encombrement quai,60785,137.8,9.6,7,0.59,Beau temps,Q9,Samedi,2,2023
+MT Cristal 5,IMO9097874,Pétrolier,Port d'Alger,2023-02-19 22:15,2023-02-21 17:36,43h22,43.36,Attente pilote,84117,192.0,10.7,3,0.54,Mer agitée,Q2,Dimanche,2,2023
+RoRo Neptune 6,IMO9791787,Roulier (Ro-Ro),Port d'Alger,2023-02-20 19:50,2023-02-22 11:07,39h18,39.29,Attente pilote,10516,146.5,8.6,8,0.82,Mer agitée,Q10,Lundi,2,2023
+MV Tassili 8,IMO9559572,Céréalier,Port d'Alger,2023-02-23 12:20,2023-02-25 18:55,54h35,54.59,Attente marchandise,26358,154.4,9.6,9,0.32,Mer agitée,Q5,Jeudi,2,2023
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2023-02-23 21:40,2023-02-25 18:14,44h34,44.57,Attente marchandise,57423,220.5,13.8,7,0.11,Beau temps,Q8,Jeudi,2,2023
+MV Chenoua 6,IMO9811984,Cimentier,Port d'Alger,2023-02-25 02:20,2023-02-26 13:48,35h28,35.47,Mauvais temps,28346,122.1,7.6,1,0.19,Beau temps,Q1,Samedi,2,2023
+RoRo Poseidon 3,IMO9024906,Roulier (Ro-Ro),Port d'Alger,2023-02-26 17:45,2023-02-28 10:53,41h08,41.13,Attente autorisation,16263,139.5,8.6,6,0.86,Beau temps,Q1,Dimanche,2,2023
+MV Tassili 2,IMO9313814,Céréalier,Port d'Alger,2023-03-01 18:15,2023-03-05 06:53,84h39,84.65,Attente silo disponible,15854,203.7,13.0,9,0.68,Beau temps,Q10,Mercredi,3,2023
+MV Emeraude 4,IMO9777493,Vraquier,Port d'Alger,2023-03-04 10:30,2023-03-07 03:40,65h11,65.18,Encombrement quai,21795,198.5,11.2,3,0.43,Beau temps,Q4,Samedi,3,2023
+MSC/CMA Corniche 3,IMO9646081,Porte-conteneurs,Port d'Alger,2023-03-06 23:40,2023-03-08 01:06,25h26,25.44,Attente pilote,31927,248.5,17.3,4,0.38,Beau temps,Q4,Lundi,3,2023
+LNG Zaccar 6,IMO9676856,Gazier,Port d'Alger,2023-03-07 19:25,2023-03-11 22:55,99h30,99.5,Avarie technique nécessitant expertise,12678,197.5,8.1,17,0.87,Vent fort,Q7,Mardi,3,2023
+MT Pioneer 7,IMO9650810,Pétrolier,Port d'Alger,2023-03-07 21:20,2023-03-09 14:15,40h55,40.92,Attente autorisation,35518,234.5,13.0,4,0.2,Vent fort,Q3,Mardi,3,2023
+MV Diamant 9,IMO9303742,Vraquier,Port d'Alger,2023-03-08 18:45,2023-03-11 06:41,59h56,59.94,Attente marchandise,45180,213.0,13.9,11,0.69,Mer agitée,Q8,Mercredi,3,2023
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2023-03-08 22:40,2023-03-10 20:45,46h05,46.09,Attente grue,33195,173.5,10.2,8,0.21,Houle,Q5,Mercredi,3,2023
+RoRo Levant 1,IMO9540299,Roulier (Ro-Ro),Port d'Alger,2023-03-09 13:50,2023-03-11 18:59,53h09,53.16,Attente poste à quai,14287,136.9,7.6,10,0.9,Vent fort,Q5,Jeudi,3,2023
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2023-03-10 13:15,2023-03-12 13:51,48h37,48.62,Attente autorisation,12340,131.7,8.6,8,0.92,Mer agitée,Q4,Vendredi,3,2023
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2023-03-11 11:30,2023-03-12 17:32,30h03,30.04,Attente autorisation,18946,185.7,10.5,4,0.18,Vent fort,Q9,Samedi,3,2023
+MSC/CMA Corniche 1,IMO9216881,Porte-conteneurs,Port d'Alger,2023-03-15 02:45,2023-03-16 05:14,26h29,26.49,Attente grue,34097,201.9,13.8,3,0.14,Houle,Q10,Mercredi,3,2023
+MT Atlas 2,IMO9229258,Pétrolier,Port d'Alger,2023-03-18 16:10,2023-03-20 20:03,51h53,51.89,Contrôle douanier,52866,159.7,9.9,7,0.41,Beau temps,Q9,Samedi,3,2023
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2023-03-28 15:20,2023-03-30 05:36,38h16,38.27,Attente marchandise,53566,189.1,10.6,3,0.11,Beau temps,Q11,Mardi,3,2023
+MV Endeavour 9,IMO9158067,Céréalier,Port d'Alger,2023-03-29 14:40,2023-04-01 09:17,66h38,66.63,Attente poste à quai,51020,165.4,9.6,3,0.89,Beau temps,Q8,Mercredi,3,2023
+MSC/CMA Poseidon 9,IMO9444730,Porte-conteneurs,Port d'Alger,2023-04-02 00:00,2023-04-03 19:48,43h49,43.81,Attente pilote,39672,255.7,17.2,8,0.62,Beau temps,Q4,Dimanche,4,2023
+MV Bouzaréah 5,IMO9811102,Vraquier,Port d'Alger,2023-04-03 16:00,2023-04-06 08:32,64h33,64.55,Attente marchandise,62410,136.7,8.5,8,0.88,Houle,Q2,Lundi,4,2023
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2023-04-06 02:40,2023-04-07 01:06,22h27,22.45,Attente autorisation,75441,236.1,13.0,3,0.17,Beau temps,Q1,Jeudi,4,2023
+MSC/CMA Djurdjura 8,IMO9977957,Porte-conteneurs,Port d'Alger,2023-04-06 03:50,2023-04-07 14:53,35h03,35.05,Encombrement quai,45160,194.4,11.4,1,0.34,Vent fort,Q7,Jeudi,4,2023
+MSC/CMA Levant 6,IMO9605397,Porte-conteneurs,Port d'Alger,2023-04-07 21:20,2023-04-09 23:53,50h34,50.56,Attente poste à quai,88590,192.8,12.4,10,1.0,Beau temps,Q8,Vendredi,4,2023
+MT Atlas 2,IMO9229258,Pétrolier,Port d'Alger,2023-04-09 04:15,2023-04-11 04:36,48h22,48.36,Attente poste à quai,86645,186.8,11.2,6,0.37,Beau temps,Q11,Dimanche,4,2023
+MT Emeraude 8,IMO9926224,Pétrolier,Port d'Alger,2023-04-13 19:15,2023-04-25 18:45,287h30,287.5,Tempête majeure / Fermeture du port,86604,169.7,15.7,17,0.92,Mer agitée,Q1,Jeudi,4,2023
+MV Atlantic 6,IMO9420651,Cimentier,Port d'Alger,2023-04-18 03:20,2023-04-19 21:24,42h04,42.07,Mauvais temps,29621,158.7,9.0,5,0.17,Beau temps,Q3,Mardi,4,2023
+MT Poseidon 2,IMO9608982,Pétrolier,Port d'Alger,2023-04-20 16:45,2023-04-22 23:48,55h04,55.07,Attente autorisation,60516,228.4,14.6,8,0.98,Beau temps,Q11,Jeudi,4,2023
+MV Cirta 3,IMO9005433,Céréalier,Port d'Alger,2023-04-22 01:10,2023-04-25 01:00,71h51,71.85,Attente silo disponible,27403,151.2,9.0,4,0.67,Brouillard,Q7,Samedi,4,2023
+RoRo Kabylie 4,IMO9679112,Roulier (Ro-Ro),Port d'Alger,2023-04-24 15:00,2023-04-26 00:07,33h07,33.12,Attente autorisation,29767,125.8,7.0,7,0.34,Beau temps,Q12,Lundi,4,2023
+MT Diamant 6,IMO9063491,Pétrolier,Port d'Alger,2023-04-29 11:10,2023-05-01 07:43,44h34,44.56,Attente autorisation,28884,157.3,9.1,7,0.37,Beau temps,Q2,Samedi,4,2023
+MV Poseidon 1,IMO9267304,Vraquier,Port d'Alger,2023-05-02 04:00,2023-05-16 23:46,355h47,355.78,Panne grue portuaire majeure,37260,132.5,11.8,20,0.96,Beau temps,Q11,Mardi,5,2023
+MV Chenoua 9,IMO9250786,Cimentier,Port d'Alger,2023-05-02 14:30,2023-05-04 07:35,41h05,41.09,Attente déchargement,6621,140.6,8.9,7,0.45,Beau temps,Q4,Mardi,5,2023
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2023-05-03 08:50,2023-05-06 11:45,74h55,74.92,Encombrement quai,10934,150.7,10.3,4,0.23,Vent fort,Q4,Mercredi,5,2023
+MSC/CMA Levant 6,IMO9605397,Porte-conteneurs,Port d'Alger,2023-05-07 05:10,2023-05-08 21:48,40h38,40.63,Attente grue,108730,272.6,16.4,4,0.23,Beau temps,Q5,Dimanche,5,2023
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2023-05-09 15:15,2023-05-11 09:05,41h50,41.84,Encombrement quai,87836,183.1,10.3,7,0.39,Beau temps,Q11,Mardi,5,2023
+MSC/CMA Cirta 1,IMO9364069,Porte-conteneurs,Port d'Alger,2023-05-13 03:30,2023-05-14 19:23,39h54,39.89,Encombrement quai,21654,298.5,17.9,6,0.23,Beau temps,Q2,Samedi,5,2023
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2023-05-14 22:20,2023-05-17 14:40,64h21,64.35,Attente poste à quai,44519,194.0,12.7,6,0.73,Mer agitée,Q2,Dimanche,5,2023
+MV Cirta 7,IMO9269054,Cimentier,Port d'Alger,2023-05-15 01:40,2023-05-17 11:11,57h31,57.52,Attente déchargement,10842,144.7,8.5,10,1.0,Beau temps,Q1,Lundi,5,2023
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2023-05-17 21:45,2023-05-20 05:46,56h01,56.02,Attente silo disponible,52923,198.2,12.0,6,0.88,Mer agitée,Q8,Mercredi,5,2023
+MV Corniche 2,IMO9510216,Vraquier,Port d'Alger,2023-05-18 22:15,2023-05-28 07:21,225h06,225.1,Encombrement quai sévère,30162,207.9,10.5,15,0.96,Vent fort,Q11,Jeudi,5,2023
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2023-05-23 04:10,2023-05-26 08:18,76h08,76.14,Encombrement quai,42367,210.9,14.7,9,0.84,Houle,Q4,Mardi,5,2023
+MV Cristal 1,IMO9900300,Vraquier,Port d'Alger,2023-05-24 08:15,2023-05-26 04:40,44h26,44.43,Attente déchargement,59445,175.6,11.8,3,0.35,Beau temps,Q8,Mercredi,5,2023
+LNG Bouzaréah 3,IMO9144892,Gazier,Port d'Alger,2023-05-24 08:45,2023-05-26 13:14,52h29,52.49,Contrôle sécurité,13535,157.4,11.0,7,1.0,Beau temps,Q12,Mercredi,5,2023
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2023-05-26 01:50,2023-05-28 12:37,58h48,58.8,Attente marchandise,19260,208.6,12.1,10,1.0,Vent fort,Q6,Vendredi,5,2023
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2023-05-26 03:50,2023-05-28 09:29,53h39,53.65,Attente marchandise,46286,188.0,11.4,6,0.3,Mer agitée,Q8,Vendredi,5,2023
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2023-05-27 03:50,2023-05-30 00:21,68h31,68.52,Attente poste à quai,30761,165.1,11.5,9,0.74,Beau temps,Q4,Samedi,5,2023
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2023-05-28 14:30,2023-05-31 00:24,57h54,57.9,Attente poste à quai,34972,226.5,13.1,7,0.36,Houle,Q4,Dimanche,5,2023
+MV Chenoua 9,IMO9036014,Céréalier,Port d'Alger,2023-05-29 08:25,2023-06-08 09:38,241h13,241.22,Encombrement quai sévère,35242,231.2,12.1,11,0.93,Beau temps,Q9,Lundi,5,2023
+MV Diamant 9,IMO9787352,Vraquier,Port d'Alger,2023-05-30 17:00,2023-06-01 23:25,54h25,54.42,Attente marchandise,13567,195.3,12.0,4,0.57,Beau temps,Q2,Mardi,5,2023
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2023-06-01 02:50,2023-06-02 21:34,42h44,42.74,Attente pilote,44532,162.8,9.6,7,0.48,Beau temps,Q4,Jeudi,6,2023
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2023-06-03 01:20,2023-06-05 14:47,61h27,61.45,Attente marchandise,33098,187.7,10.6,11,0.62,Beau temps,Q5,Samedi,6,2023
+RoRo Levant 2,IMO9179376,Roulier (Ro-Ro),Port d'Alger,2023-06-13 12:10,2023-06-21 13:34,193h24,193.4,Conflit social au port,35405,199.1,9.0,18,0.95,Houle,Q7,Mardi,6,2023
+MV Numidia 2,IMO9495158,Vraquier,Port d'Alger,2023-06-18 18:30,2023-06-22 09:15,86h46,86.76,Attente poste à quai,20966,138.3,8.3,10,1.0,Houle,Q11,Dimanche,6,2023
+MSC/CMA Aurès 5,IMO9422548,Porte-conteneurs,Port d'Alger,2023-06-25 12:50,2023-06-27 20:49,55h59,55.98,Attente grue,99535,276.8,16.9,9,0.97,Beau temps,Q1,Dimanche,6,2023
+MV Numidia 5,IMO9213910,Vraquier,Port d'Alger,2023-07-01 05:30,2023-07-05 08:37,99h08,99.13,Attente poste à quai,35810,142.5,9.2,13,1.0,Vent fort,Q6,Samedi,7,2023
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2023-07-05 18:00,2023-07-08 21:31,75h32,75.53,Attente poste à quai,68912,176.7,11.8,9,0.85,Mer agitée,Q11,Mercredi,7,2023
+MV Horizon 8,IMO9960571,Vraquier,Port d'Alger,2023-07-06 18:00,2023-07-08 23:01,53h02,53.03,Encombrement quai,21984,162.8,9.7,8,0.47,Beau temps,Q11,Jeudi,7,2023
+MSC/CMA Levant 6,IMO9605397,Porte-conteneurs,Port d'Alger,2023-07-07 03:15,2023-07-09 00:02,44h48,44.8,Attente grue,74448,196.9,12.8,5,1.0,Beau temps,Q2,Vendredi,7,2023
+MT Pioneer 1,IMO9188066,Pétrolier,Port d'Alger,2023-07-10 01:10,2023-07-12 08:17,55h07,55.12,Attente pilote,39565,196.4,12.9,6,0.95,Houle,Q1,Lundi,7,2023
+MV Atlantic 2,IMO9135691,Vraquier,Port d'Alger,2023-07-15 06:15,2023-07-17 22:16,64h01,64.02,Encombrement quai,64931,126.0,8.0,6,1.0,Mer agitée,Q7,Samedi,7,2023
+MV Neptune 5,IMO9197509,Vraquier,Port d'Alger,2023-07-21 20:40,2023-07-25 01:05,76h26,76.43,Attente déchargement,54549,217.4,12.2,16,1.0,Beau temps,Q1,Vendredi,7,2023
+MV Cirta 1,IMO9138205,Cimentier,Port d'Alger,2023-07-22 04:15,2023-07-24 03:29,47h15,47.25,Attente poste à quai,26697,131.8,8.3,3,0.56,Beau temps,Q10,Samedi,7,2023
+MV Endeavour 6,IMO9449993,Cimentier,Port d'Alger,2023-07-25 07:15,2023-08-08 18:33,347h18,347.3,Encombrement quai sévère,27395,159.5,10.4,10,0.93,Beau temps,Q5,Mardi,7,2023
+MT Atlas 2,IMO9229258,Pétrolier,Port d'Alger,2023-07-27 19:10,2023-07-30 01:18,54h09,54.15,Attente pilote,65402,163.4,9.7,5,0.91,Beau temps,Q9,Jeudi,7,2023
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2023-07-29 12:40,2023-07-31 21:14,56h34,56.57,Attente autorisation,23399,164.7,11.5,9,1.0,Beau temps,Q11,Samedi,7,2023
+MSC/CMA Mitidja 4,IMO9542899,Porte-conteneurs,Port d'Alger,2023-08-07 22:00,2023-08-09 22:49,48h50,48.83,Attente pilote,60051,191.4,12.7,6,0.87,Mer agitée,Q12,Lundi,8,2023
+MV Star 2,IMO9465230,Vraquier,Port d'Alger,2023-08-12 07:10,2023-08-14 21:55,62h45,62.76,Attente marchandise,44013,148.6,9.6,9,0.51,Beau temps,Q1,Samedi,8,2023
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2023-08-14 07:30,2023-08-15 08:58,25h28,25.47,Attente pilote,39401,140.5,9.1,6,0.56,Beau temps,Q8,Lundi,8,2023
+MV Meridian 9,IMO9535618,Céréalier,Port d'Alger,2023-08-15 05:50,2023-08-18 04:22,70h33,70.54,Attente poste à quai,66422,207.3,14.5,5,0.88,Beau temps,Q5,Mardi,8,2023
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2023-08-16 01:00,2023-08-17 19:46,42h46,42.77,Attente autorisation,26505,131.8,8.9,10,0.98,Beau temps,Q5,Mercredi,8,2023
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2023-08-16 03:45,2023-08-17 23:12,43h27,43.45,Contrôle douanier,87265,193.2,11.5,6,0.59,Beau temps,Q12,Mercredi,8,2023
+MV Atlantic 6,IMO9420651,Cimentier,Port d'Alger,2023-08-16 10:10,2023-08-18 14:40,52h31,52.51,Attente poste à quai,14003,106.1,7.3,10,0.59,Beau temps,Q7,Mercredi,8,2023
+MT Tassili 8,IMO9512855,Pétrolier,Port d'Alger,2023-08-21 02:50,2023-08-23 10:31,55h42,55.69,Attente pilote,32734,178.9,10.9,9,0.86,Houle,Q2,Lundi,8,2023
+MV Cirta 1,IMO9601949,Céréalier,Port d'Alger,2023-08-22 22:15,2023-08-25 02:26,52h11,52.19,Encombrement quai,16950,219.8,13.7,3,0.32,Beau temps,Q8,Mardi,8,2023
+RoRo Kabylie 5,IMO9540418,Roulier (Ro-Ro),Port d'Alger,2023-08-24 06:00,2023-08-25 18:30,36h31,36.52,Attente pilote,33533,151.7,10.4,9,0.59,Beau temps,Q8,Jeudi,8,2023
+MV Star 1,IMO9120294,Cimentier,Port d'Alger,2023-08-25 06:50,2023-08-27 18:21,59h32,59.53,Attente déchargement,15449,159.7,10.8,6,1.0,Mer agitée,Q4,Vendredi,8,2023
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2023-08-25 10:10,2023-08-27 03:06,40h57,40.95,Attente grue,83370,243.1,14.7,8,0.68,Beau temps,Q10,Vendredi,8,2023
+LNG Diamant 5,IMO9524902,Gazier,Port d'Alger,2023-08-25 13:15,2023-08-27 05:21,40h06,40.1,Contrôle sécurité,31868,144.8,10.1,7,0.68,Vent fort,Q2,Vendredi,8,2023
+MV Star 9,IMO9439898,Vraquier,Port d'Alger,2023-08-30 08:50,2023-09-02 00:01,63h12,63.2,Attente marchandise,12642,167.9,10.0,6,1.0,Houle,Q6,Mercredi,8,2023
+MSC/CMA Poseidon 6,IMO9059942,Porte-conteneurs,Port d'Alger,2023-08-31 06:00,2023-09-01 11:19,29h20,29.33,Attente grue,113748,293.1,20.1,1,0.35,Beau temps,Q9,Jeudi,8,2023
+MV Neptune 8,IMO9332441,Céréalier,Port d'Alger,2023-09-04 07:30,2023-09-06 23:34,64h04,64.07,Attente marchandise,38546,164.6,10.0,7,0.68,Beau temps,Q5,Lundi,9,2023
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2023-09-04 20:20,2023-09-06 10:42,38h23,38.38,Attente poste à quai,55238,159.2,9.4,3,0.38,Beau temps,Q10,Lundi,9,2023
+MV Cirta 2,IMO9778480,Vraquier,Port d'Alger,2023-09-06 21:10,2023-09-09 06:45,57h35,57.59,Attente marchandise,44333,199.9,13.9,5,0.25,Mer agitée,Q5,Mercredi,9,2023
+MSC/CMA Poseidon 3,IMO9656401,Porte-conteneurs,Port d'Alger,2023-09-08 08:00,2023-09-10 04:17,44h17,44.28,Attente grue,51385,209.6,12.4,4,0.32,Mer agitée,Q1,Vendredi,9,2023
+MV Endeavour 5,IMO9848749,Vraquier,Port d'Alger,2023-09-09 12:00,2023-09-11 10:27,46h27,46.46,Attente marchandise,12206,180.9,12.6,7,0.11,Beau temps,Q8,Samedi,9,2023
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2023-09-11 18:00,2023-09-14 03:37,57h37,57.62,Attente poste à quai,45758,133.0,7.9,10,0.64,Mer agitée,Q11,Lundi,9,2023
+MV Poseidon 2,IMO9709570,Vraquier,Port d'Alger,2023-09-11 20:45,2023-09-14 10:14,61h29,61.49,Attente marchandise,49339,173.5,11.8,5,0.19,Houle,Q8,Lundi,9,2023
+MV Endeavour 3,IMO9179516,Vraquier,Port d'Alger,2023-09-13 19:10,2023-09-16 05:54,58h45,58.75,Attente marchandise,46108,194.7,11.8,7,0.62,Mer agitée,Q10,Mercredi,9,2023
+MT Star 9,IMO9844693,Pétrolier,Port d'Alger,2023-09-16 04:40,2023-09-25 23:04,234h24,234.4,Attente silo disponible (saturation),79227,170.1,12.8,18,0.8,Mer agitée,Q1,Samedi,9,2023
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2023-09-16 22:00,2023-09-19 06:07,56h08,56.13,Attente autorisation,49171,191.5,10.6,6,0.65,Beau temps,Q6,Samedi,9,2023
+MV Atlantic 6,IMO9420651,Cimentier,Port d'Alger,2023-09-21 23:30,2023-09-23 21:40,46h11,46.18,Mauvais temps,16016,161.6,10.1,7,0.87,Beau temps,Q10,Jeudi,9,2023
+MV Meridian 1,IMO9149289,Vraquier,Port d'Alger,2023-09-22 03:20,2023-09-25 07:06,75h47,75.78,Attente poste à quai,11110,185.9,12.7,7,0.84,Vent fort,Q1,Vendredi,9,2023
+MSC/CMA Mitidja 7,IMO9988467,Porte-conteneurs,Port d'Alger,2023-09-22 19:30,2023-09-23 19:50,24h21,24.34,Attente grue,73188,247.7,16.7,1,0.1,Beau temps,Q8,Vendredi,9,2023
+MV Star 4,IMO9756442,Vraquier,Port d'Alger,2023-09-23 23:00,2023-09-26 13:28,62h29,62.48,Encombrement quai,63801,186.4,11.3,7,0.78,Beau temps,Q3,Samedi,9,2023
+MSC/CMA Atlas 4,IMO9316061,Porte-conteneurs,Port d'Alger,2023-09-24 01:20,2023-09-25 17:05,39h45,39.76,Attente pilote,103413,228.1,14.7,5,0.41,Houle,Q5,Dimanche,9,2023
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2023-09-24 15:00,2023-09-27 12:44,69h45,69.75,Attente déchargement,30901,229.3,15.6,5,0.61,Beau temps,Q4,Dimanche,9,2023
+MV Poseidon 4,IMO9606403,Cimentier,Port d'Alger,2023-09-24 23:00,2023-09-27 13:57,62h57,62.96,Attente déchargement,26210,129.6,7.7,10,0.52,Beau temps,Q6,Dimanche,9,2023
+MV Poseidon 2,IMO9709570,Vraquier,Port d'Alger,2023-09-25 05:50,2023-09-27 15:12,57h23,57.38,Attente déchargement,11558,173.5,9.8,12,0.84,Beau temps,Q1,Lundi,9,2023
+MSC/CMA Emeraude 7,IMO9415922,Porte-conteneurs,Port d'Alger,2023-09-30 03:00,2023-10-01 07:44,28h45,28.75,Attente pilote,27057,241.6,14.3,3,0.1,Houle,Q2,Samedi,9,2023
+MV Djurdjura 1,IMO9273441,Vraquier,Port d'Alger,2023-10-03 13:00,2023-10-05 20:06,55h06,55.1,Encombrement quai,22157,197.6,12.1,6,0.5,Mer agitée,Q5,Mardi,10,2023
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2023-10-03 13:10,2023-10-06 08:57,67h47,67.79,Attente poste à quai,14082,191.5,13.0,4,0.7,Houle,Q3,Mardi,10,2023
+MSC/CMA Neptune 2,IMO9746814,Porte-conteneurs,Port d'Alger,2023-10-08 07:40,2023-10-15 11:58,172h19,172.31,Panne grue portuaire majeure,93812,264.9,13.4,14,0.88,Beau temps,Q11,Dimanche,10,2023
+MSC/CMA Mitidja 8,IMO9436687,Porte-conteneurs,Port d'Alger,2023-10-08 22:45,2023-10-17 22:12,215h27,215.45,Panne grue portuaire majeure,24126,191.7,15.7,20,0.94,Brouillard,Q6,Dimanche,10,2023
+LNG Cirta 2,IMO9563750,Gazier,Port d'Alger,2023-10-10 02:00,2023-10-11 01:05,23h05,23.09,Attente autorisation,28623,173.4,10.3,1,0.08,Beau temps,Q3,Mardi,10,2023
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2023-10-10 04:50,2023-10-12 02:48,45h59,45.98,Attente marchandise,14254,180.3,11.1,3,0.19,Mer agitée,Q10,Mardi,10,2023
+MV Neptune 5,IMO9363363,Céréalier,Port d'Alger,2023-10-11 06:10,2023-10-16 17:41,131h31,131.52,Contrôle sanitaire approfondi,62859,223.0,7.4,11,0.99,Vent fort,Q3,Mercredi,10,2023
+MV Tassili 3,IMO9519389,Cimentier,Port d'Alger,2023-10-14 23:50,2023-10-16 21:13,45h23,45.39,Attente poste à quai,27218,166.9,11.3,4,0.19,Brouillard,Q9,Samedi,10,2023
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2023-10-16 18:40,2023-10-18 07:49,37h10,37.17,Attente déchargement,63881,127.4,8.0,3,0.28,Brouillard,Q7,Lundi,10,2023
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2023-10-16 19:20,2023-10-18 22:35,51h16,51.27,Encombrement quai,54276,121.5,7.9,6,0.65,Beau temps,Q9,Lundi,10,2023
+MT Levant 2,IMO9599298,Pétrolier,Port d'Alger,2023-10-22 07:45,2023-10-24 10:00,50h15,50.26,Attente poste à quai,89819,195.2,11.8,8,0.72,Beau temps,Q3,Dimanche,10,2023
+MSC/CMA Sahel 7,IMO9393396,Porte-conteneurs,Port d'Alger,2023-10-22 07:45,2023-10-24 10:23,50h39,50.65,Attente poste à quai,39294,225.4,14.9,11,0.41,Beau temps,Q7,Dimanche,10,2023
+MSC/CMA Atlas 5,IMO9256787,Porte-conteneurs,Port d'Alger,2023-10-22 16:20,2023-10-24 19:46,51h27,51.45,Attente pilote,91981,299.3,17.8,10,0.79,Mer agitée,Q4,Dimanche,10,2023
+MV Cristal 8,IMO9826596,Vraquier,Port d'Alger,2023-10-24 09:40,2023-10-26 14:08,52h29,52.48,Attente poste à quai,14862,223.2,12.9,5,0.45,Beau temps,Q1,Mardi,10,2023
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2023-10-25 07:00,2023-10-26 19:12,36h13,36.21,Attente autorisation,8387,120.7,7.3,7,0.56,Beau temps,Q6,Mercredi,10,2023
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2023-10-26 00:15,2023-10-28 07:24,55h10,55.17,Attente poste à quai,46385,226.7,12.8,7,0.15,Vent fort,Q12,Jeudi,10,2023
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2023-10-26 15:00,2023-10-28 19:26,52h26,52.44,Attente marchandise,8314,209.7,13.8,4,0.27,Houle,Q4,Jeudi,10,2023
+MSC/CMA Cirta 2,IMO9894217,Porte-conteneurs,Port d'Alger,2023-10-28 12:30,2023-10-29 23:08,34h38,34.63,Attente pilote,63666,207.0,14.1,2,0.19,Mer agitée,Q7,Samedi,10,2023
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2023-10-30 06:50,2023-11-01 14:27,55h38,55.63,Encombrement quai,114451,282.7,18.7,6,0.85,Houle,Q10,Lundi,10,2023
+MV Neptune 9,IMO9819656,Vraquier,Port d'Alger,2023-10-30 08:50,2023-11-01 11:47,50h57,50.96,Encombrement quai,51309,157.3,10.9,6,0.54,Beau temps,Q3,Lundi,10,2023
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2023-10-31 10:50,2023-11-03 22:58,84h09,84.15,Attente silo disponible,34201,208.7,11.9,4,0.69,Houle,Q10,Mardi,10,2023
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2023-11-02 06:50,2023-11-03 16:22,33h32,33.54,Attente marchandise,14826,218.0,13.9,3,0.05,Houle,Q7,Jeudi,11,2023
+MT Chenoua 2,IMO9023740,Pétrolier,Port d'Alger,2023-11-05 09:30,2023-11-10 04:52,115h23,115.38,Panne grue portuaire majeure,41359,208.3,10.7,19,0.87,Brouillard,Q8,Dimanche,11,2023
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2023-11-07 13:50,2023-11-09 15:30,49h40,49.67,Attente poste à quai,32785,147.1,9.9,5,0.19,Vent fort,Q8,Mardi,11,2023
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2023-11-08 14:15,2023-11-10 15:36,49h22,49.36,Attente pilote,61612,151.7,10.5,2,0.77,Mer agitée,Q8,Mercredi,11,2023
+MSC/CMA Tassili 7,IMO9856794,Porte-conteneurs,Port d'Alger,2023-11-09 08:00,2023-11-11 06:07,46h07,46.12,Attente grue,105153,294.4,19.0,8,0.82,Beau temps,Q8,Jeudi,11,2023
+RoRo Chenoua 4,IMO9945053,Roulier (Ro-Ro),Port d'Alger,2023-11-10 18:10,2023-11-11 23:28,29h19,29.31,Attente pilote,38978,125.3,8.1,7,0.57,Houle,Q8,Vendredi,11,2023
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2023-11-11 03:50,2023-11-12 17:34,37h45,37.74,Attente déchargement,36264,128.9,7.5,4,0.18,Beau temps,Q7,Samedi,11,2023
+MT Hoggar 4,IMO9599573,Pétrolier,Port d'Alger,2023-11-12 17:45,2023-11-14 01:13,31h28,31.47,Contrôle douanier,65681,165.4,11.1,3,0.17,Beau temps,Q1,Dimanche,11,2023
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2023-11-17 02:40,2023-11-18 08:27,29h48,29.79,Encombrement quai,60368,215.9,13.9,3,0.26,Beau temps,Q12,Vendredi,11,2023
+MV Hoggar 3,IMO9025611,Vraquier,Port d'Alger,2023-11-18 02:20,2023-11-20 08:48,54h29,54.48,Encombrement quai,59922,210.5,14.6,5,0.05,Beau temps,Q10,Samedi,11,2023
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2023-11-19 10:10,2023-11-20 04:53,18h43,18.72,Attente poste à quai,22692,198.4,12.4,3,0.05,Beau temps,Q12,Dimanche,11,2023
+MT Levant 1,IMO9386251,Pétrolier,Port d'Alger,2023-11-20 16:50,2023-11-22 15:19,46h30,46.49,Attente poste à quai,66566,155.0,8.7,8,0.61,Beau temps,Q7,Lundi,11,2023
+MV Aurès 3,IMO9756215,Vraquier,Port d'Alger,2023-11-21 19:15,2023-11-24 04:12,56h57,56.95,Encombrement quai,31519,196.5,10.8,3,0.08,Beau temps,Q6,Mardi,11,2023
+MSC/CMA Meridian 8,IMO9176405,Porte-conteneurs,Port d'Alger,2023-11-23 08:50,2023-11-25 08:43,47h54,47.9,Encombrement quai,100483,252.8,14.3,5,0.49,Vent fort,Q3,Jeudi,11,2023
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2023-11-23 09:30,2023-11-26 01:01,63h32,63.53,Attente poste à quai,39387,136.8,9.0,9,0.64,Houle,Q4,Jeudi,11,2023
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2023-11-24 03:45,2023-11-26 01:46,46h01,46.02,Attente poste à quai,113298,291.1,16.8,8,0.82,Houle,Q8,Vendredi,11,2023
+MV Meridian 6,IMO9695951,Céréalier,Port d'Alger,2023-11-24 16:10,2023-11-27 14:19,70h09,70.15,Encombrement quai,45781,163.1,9.4,4,0.78,Mer agitée,Q3,Vendredi,11,2023
+MV Star 2,IMO9556379,Vraquier,Port d'Alger,2023-11-27 07:40,2023-11-29 01:44,42h05,42.08,Attente marchandise,11550,176.0,12.3,6,0.22,Beau temps,Q6,Lundi,11,2023
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2023-11-29 05:00,2023-11-30 11:31,30h31,30.52,Attente poste à quai,10083,171.9,10.9,2,0.05,Beau temps,Q7,Mercredi,11,2023
+MT Cirta 1,IMO9940443,Pétrolier,Port d'Alger,2023-12-01 11:30,2023-12-03 17:17,53h47,53.79,Attente autorisation,21310,163.0,10.5,9,0.95,Beau temps,Q12,Vendredi,12,2023
+MSC/CMA Pioneer 1,IMO9881639,Porte-conteneurs,Port d'Alger,2023-12-06 17:45,2023-12-08 03:27,33h42,33.71,Attente grue,52375,172.3,11.0,5,0.62,Beau temps,Q9,Mercredi,12,2023
+MV Cirta 7,IMO9291476,Vraquier,Port d'Alger,2023-12-07 09:15,2023-12-09 19:48,58h33,58.55,Attente déchargement,17716,162.3,9.8,10,0.93,Mer agitée,Q2,Jeudi,12,2023
+MT Corniche 7,IMO9156466,Pétrolier,Port d'Alger,2023-12-07 20:45,2023-12-09 05:38,32h54,32.9,Attente autorisation,16046,245.1,14.6,4,0.29,Beau temps,Q9,Jeudi,12,2023
+MSC/CMA Cirta 6,IMO9253480,Porte-conteneurs,Port d'Alger,2023-12-09 12:15,2023-12-11 14:29,50h15,50.25,Encombrement quai,19094,154.6,9.4,4,0.68,Beau temps,Q8,Samedi,12,2023
+MSC/CMA Aurès 9,IMO9568843,Porte-conteneurs,Port d'Alger,2023-12-09 21:15,2023-12-12 12:25,63h11,63.18,Encombrement quai,60367,269.5,17.2,7,0.95,Mer agitée,Q12,Samedi,12,2023
+MT Mitidja 3,IMO9746385,Pétrolier,Port d'Alger,2023-12-13 22:10,2023-12-15 16:26,42h16,42.27,Attente autorisation,58153,239.3,14.8,6,0.36,Vent fort,Q6,Mercredi,12,2023
+MT Atlantic 7,IMO9148540,Pétrolier,Port d'Alger,2023-12-15 16:05,2023-12-20 01:53,105h48,105.8,Contrôle sanitaire approfondi,86129,192.1,10.9,10,0.84,Beau temps,Q7,Vendredi,12,2023
+MV Levant 9,IMO9737715,Vraquier,Port d'Alger,2023-12-16 02:20,2023-12-18 00:51,46h32,46.53,Attente poste à quai,15242,177.4,11.8,2,0.13,Beau temps,Q11,Samedi,12,2023
+MV Cirta 7,IMO9291476,Vraquier,Port d'Alger,2023-12-17 00:45,2023-12-19 01:41,48h57,48.94,Encombrement quai,25027,223.5,13.2,7,0.46,Beau temps,Q2,Dimanche,12,2023
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2023-12-18 09:20,2023-12-19 20:32,35h12,35.2,Encombrement quai,114756,292.6,18.6,5,0.21,Beau temps,Q5,Lundi,12,2023
+MSC/CMA Tassili 2,IMO9148766,Porte-conteneurs,Port d'Alger,2023-12-20 00:15,2023-12-22 03:59,51h44,51.74,Attente poste à quai,39354,208.6,13.3,7,0.42,Vent fort,Q2,Mercredi,12,2023
+MV Corniche 8,IMO9901736,Vraquier,Port d'Alger,2023-12-21 23:20,2023-12-24 19:22,68h03,68.04,Attente poste à quai,57367,151.8,9.4,11,0.66,Beau temps,Q3,Jeudi,12,2023
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2023-12-24 01:00,2023-12-25 18:50,41h51,41.84,Attente pilote,38848,192.8,12.7,6,0.54,Houle,Q11,Dimanche,12,2023
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2023-12-24 07:45,2023-12-26 00:02,40h18,40.29,Encombrement quai,65893,174.9,12.1,6,0.3,Beau temps,Q2,Dimanche,12,2023
+MV Mitidja 5,IMO9368727,Céréalier,Port d'Alger,2023-12-26 21:45,2023-12-29 12:37,62h52,62.87,Attente silo disponible,18198,189.7,11.2,7,0.37,Beau temps,Q3,Mardi,12,2023
+LNG Meridian 3,IMO9360139,Gazier,Port d'Alger,2024-01-03 11:05,2024-01-15 05:07,282h02,282.04,Conflit social au port,32511,170.2,11.1,13,0.96,Mer agitée,Q2,Mercredi,1,2024
+MV Ocean 4,IMO9279473,Vraquier,Port d'Alger,2024-01-03 18:20,2024-01-06 03:13,56h54,56.89,Attente poste à quai,61109,229.7,15.1,5,0.65,Beau temps,Q4,Mercredi,1,2024
+RoRo Meridian 9,IMO9929007,Roulier (Ro-Ro),Port d'Alger,2024-01-03 22:20,2024-01-18 12:30,350h10,350.17,Grève des dockers,27607,170.9,9.9,21,0.86,Houle,Q2,Mercredi,1,2024
+LNG Horizon 2,IMO9824451,Gazier,Port d'Alger,2024-01-04 02:40,2024-01-06 04:01,49h21,49.35,Attente autorisation,42906,131.1,8.3,7,0.78,Beau temps,Q9,Jeudi,1,2024
+MT Sahel 3,IMO9225772,Pétrolier,Port d'Alger,2024-01-04 06:50,2024-01-06 06:10,47h20,47.34,Attente poste à quai,38651,249.0,16.3,5,0.58,Houle,Q3,Jeudi,1,2024
+MV Poseidon 8,IMO9798625,Cimentier,Port d'Alger,2024-01-07 16:50,2024-01-10 03:56,59h07,59.11,Attente poste à quai,23447,136.5,7.6,7,0.34,Houle,Q6,Dimanche,1,2024
+MV Endeavour 5,IMO9848749,Vraquier,Port d'Alger,2024-01-12 00:40,2024-01-13 20:21,43h42,43.69,Encombrement quai,53604,142.4,9.0,5,0.2,Beau temps,Q4,Vendredi,1,2024
+MV Endeavour 7,IMO9549414,Vraquier,Port d'Alger,2024-01-12 02:45,2024-01-13 16:30,37h45,37.76,Attente marchandise,64707,126.4,8.3,3,0.2,Beau temps,Q12,Vendredi,1,2024
+MT Poseidon 9,IMO9682054,Pétrolier,Port d'Alger,2024-01-12 20:50,2024-01-14 01:08,28h18,28.3,Contrôle douanier,63215,202.3,12.2,5,0.05,Beau temps,Q8,Vendredi,1,2024
+MV Cirta 7,IMO9831550,Vraquier,Port d'Alger,2024-01-15 21:30,2024-01-26 07:53,250h23,250.39,Saturation totale du port,56420,184.8,14.2,18,0.83,Brouillard,Q10,Lundi,1,2024
+MV Mitidja 3,IMO9679496,Vraquier,Port d'Alger,2024-01-16 23:40,2024-01-29 22:51,311h11,311.19,Tempête majeure / Fermeture du port,27013,204.4,9.1,11,0.9,Vent fort,Q9,Mardi,1,2024
+MT Numidia 1,IMO9040804,Pétrolier,Port d'Alger,2024-01-19 04:20,2024-01-21 05:59,49h39,49.66,Attente pilote,33569,151.4,10.0,9,0.55,Beau temps,Q8,Vendredi,1,2024
+MV Levant 8,IMO9845664,Vraquier,Port d'Alger,2024-01-20 16:30,2024-01-22 02:51,34h21,34.35,Attente marchandise,47299,208.1,12.1,2,0.22,Beau temps,Q2,Samedi,1,2024
+MV Cirta 1,IMO9771411,Vraquier,Port d'Alger,2024-01-22 12:40,2024-01-24 09:53,45h13,45.22,Encombrement quai,25172,185.8,11.0,2,0.17,Beau temps,Q9,Lundi,1,2024
+MT Hoggar 7,IMO9107391,Pétrolier,Port d'Alger,2024-01-22 17:00,2024-01-24 14:11,45h12,45.19,Attente autorisation,59117,175.3,11.2,8,0.45,Vent fort,Q5,Lundi,1,2024
+MT Tassili 9,IMO9553081,Pétrolier,Port d'Alger,2024-01-24 21:50,2024-01-26 00:50,27h00,27.0,Attente autorisation,66614,228.9,14.4,3,0.24,Beau temps,Q4,Mercredi,1,2024
+MV Poseidon 9,IMO9797423,Céréalier,Port d'Alger,2024-01-25 18:50,2024-01-29 00:28,77h38,77.64,Attente silo disponible,66494,202.9,12.9,8,0.75,Vent fort,Q1,Jeudi,1,2024
+MV Kabylie 6,IMO9736996,Céréalier,Port d'Alger,2024-01-26 15:40,2024-01-28 20:54,53h14,53.24,Attente marchandise,52405,214.6,14.1,3,0.05,Beau temps,Q5,Vendredi,1,2024
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2024-02-01 21:15,2024-02-03 08:12,34h57,34.95,Attente pilote,76776,209.7,14.6,7,0.54,Beau temps,Q7,Jeudi,2,2024
+MT Atlas 2,IMO9229258,Pétrolier,Port d'Alger,2024-02-07 07:00,2024-02-09 09:23,50h23,50.39,Attente pilote,44948,223.0,14.8,6,0.39,Houle,Q3,Mercredi,2,2024
+MSC/CMA Baltic 4,IMO9170557,Porte-conteneurs,Port d'Alger,2024-02-08 03:50,2024-02-09 13:39,33h50,33.83,Attente poste à quai,71531,298.8,20.3,3,0.65,Beau temps,Q5,Jeudi,2,2024
+MV Zaccar 9,IMO9943860,Cimentier,Port d'Alger,2024-02-09 20:30,2024-02-22 22:21,313h51,313.85,Attente silo disponible (saturation),11233,135.0,10.3,18,0.93,Brouillard,Q4,Vendredi,2,2024
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2024-02-11 11:50,2024-02-14 20:19,80h30,80.5,Encombrement quai,31165,216.8,14.0,9,0.88,Beau temps,Q10,Dimanche,2,2024
+RoRo Djurdjura 3,IMO9210026,Roulier (Ro-Ro),Port d'Alger,2024-02-21 16:30,2024-02-22 21:15,28h46,28.77,Attente pilote,9259,121.7,8.1,4,0.7,Beau temps,Q8,Mercredi,2,2024
+LNG Mitidja 1,IMO9870357,Gazier,Port d'Alger,2024-02-21 18:40,2024-02-23 07:54,37h14,37.23,Attente autorisation,29260,139.4,7.9,4,0.22,Mer agitée,Q1,Mercredi,2,2024
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2024-02-24 02:10,2024-02-26 07:24,53h15,53.24,Attente déchargement,11230,123.8,7.5,7,0.5,Houle,Q7,Samedi,2,2024
+MT Bouzaréah 1,IMO9276085,Pétrolier,Port d'Alger,2024-03-04 05:40,2024-03-05 22:43,41h04,41.06,Attente pilote,40189,191.4,10.6,5,0.59,Beau temps,Q4,Lundi,3,2024
+MV Tassili 3,IMO9145584,Vraquier,Port d'Alger,2024-03-05 02:20,2024-03-08 00:59,70h40,70.66,Attente marchandise,41810,125.9,7.8,10,0.89,Beau temps,Q8,Mardi,3,2024
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2024-03-06 11:15,2024-03-08 23:39,60h25,60.41,Attente pilote,29125,225.8,15.0,12,0.89,Beau temps,Q10,Mercredi,3,2024
+MT Cristal 8,IMO9647351,Pétrolier,Port d'Alger,2024-03-06 19:45,2024-03-08 12:34,40h50,40.83,Attente pilote,16315,194.3,11.4,7,0.87,Beau temps,Q10,Mercredi,3,2024
+LNG Levant 4,IMO9359836,Gazier,Port d'Alger,2024-03-06 23:00,2024-03-09 05:56,54h57,54.95,Attente poste à quai,12338,154.0,9.6,6,0.82,Vent fort,Q11,Mercredi,3,2024
+MV Atlantic 2,IMO9525119,Céréalier,Port d'Alger,2024-03-07 21:40,2024-03-10 21:41,72h02,72.03,Attente marchandise,56005,191.8,12.4,8,0.7,Vent fort,Q1,Jeudi,3,2024
+MSC/CMA Atlas 5,IMO9256787,Porte-conteneurs,Port d'Alger,2024-03-08 10:40,2024-03-10 00:34,37h55,37.91,Attente grue,99699,278.7,19.5,3,0.75,Houle,Q6,Vendredi,3,2024
+MV Ocean 6,IMO9995586,Vraquier,Port d'Alger,2024-03-11 17:30,2024-03-14 08:38,63h08,63.14,Attente déchargement,15755,212.0,12.2,7,0.95,Beau temps,Q2,Lundi,3,2024
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2024-03-12 18:00,2024-03-15 05:00,59h01,59.02,Attente autorisation,75620,214.9,13.2,10,0.84,Houle,Q11,Mardi,3,2024
+MV Chenoua 8,IMO9404630,Cimentier,Port d'Alger,2024-03-13 09:00,2024-03-15 08:52,47h53,47.88,Attente déchargement,6124,151.4,9.1,5,0.7,Beau temps,Q11,Mercredi,3,2024
+LNG Chenoua 5,IMO9273668,Gazier,Port d'Alger,2024-03-18 02:00,2024-03-20 10:28,56h29,56.48,Attente autorisation,19070,183.3,10.3,5,0.91,Houle,Q12,Lundi,3,2024
+MT Ocean 5,IMO9612955,Pétrolier,Port d'Alger,2024-03-19 00:30,2024-03-20 10:25,33h56,33.93,Attente pilote,79742,171.9,12.0,6,0.32,Beau temps,Q2,Mardi,3,2024
+MV Mitidja 2,IMO9896865,Vraquier,Port d'Alger,2024-03-21 10:20,2024-03-23 17:05,54h45,54.75,Attente marchandise,35508,143.8,10.0,9,0.72,Houle,Q1,Jeudi,3,2024
+MV Aurès 1,IMO9998345,Vraquier,Port d'Alger,2024-03-22 16:00,2024-03-25 10:31,66h32,66.53,Encombrement quai,18204,207.7,13.5,8,0.63,Beau temps,Q9,Vendredi,3,2024
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2024-03-31 12:50,2024-04-04 00:59,84h09,84.15,Encombrement quai,63543,227.3,12.7,9,0.8,Mer agitée,Q7,Dimanche,3,2024
+MV Ocean 7,IMO9710219,Vraquier,Port d'Alger,2024-04-04 22:30,2024-04-06 07:44,33h14,33.24,Attente déchargement,57510,144.6,10.0,0,0.17,Vent fort,Q10,Jeudi,4,2024
+MV Endeavour 5,IMO9848749,Vraquier,Port d'Alger,2024-04-06 02:40,2024-04-09 03:11,72h32,72.53,Attente marchandise,42947,137.3,9.5,10,0.99,Mer agitée,Q6,Samedi,4,2024
+MV Star 8,IMO9309963,Céréalier,Port d'Alger,2024-04-07 21:40,2024-04-11 20:14,94h34,94.57,Encombrement quai,34458,169.8,10.1,14,0.94,Beau temps,Q7,Dimanche,4,2024
+RoRo Voyager 9,IMO9028276,Roulier (Ro-Ro),Port d'Alger,2024-04-08 23:15,2024-04-10 00:56,25h42,25.7,Attente pilote,14699,149.6,9.3,4,0.17,Houle,Q10,Lundi,4,2024
+MV Atlas 3,IMO9086702,Vraquier,Port d'Alger,2024-04-10 12:45,2024-04-13 04:02,63h17,63.28,Encombrement quai,33723,140.2,9.5,7,0.73,Beau temps,Q11,Mercredi,4,2024
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2024-04-10 13:40,2024-04-12 11:01,45h22,45.36,Attente pilote,118023,178.5,11.9,12,0.71,Beau temps,Q8,Mercredi,4,2024
+MT Atlas 7,IMO9706004,Pétrolier,Port d'Alger,2024-04-14 12:50,2024-04-16 21:02,56h12,56.2,Attente poste à quai,53585,177.0,11.6,6,1.0,Beau temps,Q11,Dimanche,4,2024
+MV Neptune 5,IMO9003902,Vraquier,Port d'Alger,2024-04-17 21:30,2024-04-22 11:26,109h56,109.94,Contrôle sanitaire approfondi,57044,165.7,12.2,21,0.99,Beau temps,Q4,Mercredi,4,2024
+MV Emeraude 7,IMO9226061,Vraquier,Port d'Alger,2024-04-18 03:30,2024-04-21 00:01,68h31,68.52,Attente déchargement,40461,211.6,14.8,13,1.0,Beau temps,Q12,Jeudi,4,2024
+MSC/CMA Neptune 1,IMO9997185,Porte-conteneurs,Port d'Alger,2024-04-19 00:20,2024-04-20 15:53,39h33,39.55,Attente grue,75967,290.4,18.9,8,0.98,Beau temps,Q12,Vendredi,4,2024
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2024-04-23 18:15,2024-04-26 20:47,74h33,74.55,Encombrement quai,55979,151.7,8.4,7,0.31,Mer agitée,Q10,Mardi,4,2024
+MV Kabylie 2,IMO9967024,Vraquier,Port d'Alger,2024-04-25 13:15,2024-04-27 21:37,56h22,56.37,Attente marchandise,31264,121.7,7.8,8,0.47,Beau temps,Q2,Jeudi,4,2024
+MT Mitidja 8,IMO9907291,Pétrolier,Port d'Alger,2024-04-29 10:30,2024-05-01 06:40,44h11,44.18,Contrôle douanier,51015,173.1,10.0,4,0.3,Beau temps,Q6,Lundi,4,2024
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2024-05-01 15:50,2024-05-03 11:27,43h38,43.63,Attente pilote,10294,152.8,9.1,9,0.81,Beau temps,Q6,Mercredi,5,2024
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2024-05-08 19:00,2024-05-11 09:01,62h01,62.02,Attente poste à quai,29793,174.7,11.2,5,0.57,Beau temps,Q8,Mercredi,5,2024
+RoRo Tassili 7,IMO9084148,Roulier (Ro-Ro),Port d'Alger,2024-05-10 11:45,2024-05-12 12:53,49h09,49.14,Attente pilote,24284,149.5,10.3,12,0.66,Mer agitée,Q9,Vendredi,5,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-05-15 00:10,2024-05-18 14:32,86h23,86.38,Attente poste à quai,37526,120.8,7.4,11,0.98,Beau temps,Q4,Mercredi,5,2024
+MV Cristal 6,IMO9644718,Vraquier,Port d'Alger,2024-05-22 05:50,2024-05-24 15:40,57h51,57.85,Attente marchandise,55711,150.7,9.7,4,0.56,Brouillard,Q11,Mercredi,5,2024
+MSC/CMA Aurès 7,IMO9414798,Porte-conteneurs,Port d'Alger,2024-05-23 14:20,2024-05-25 13:34,47h14,47.24,Attente pilote,20209,258.7,14.7,9,0.98,Beau temps,Q8,Jeudi,5,2024
+MV Emeraude 8,IMO9070394,Vraquier,Port d'Alger,2024-05-24 10:30,2024-05-26 06:56,44h27,44.44,Attente poste à quai,21878,222.0,12.4,4,0.36,Beau temps,Q2,Vendredi,5,2024
+LNG Djurdjura 9,IMO9517488,Gazier,Port d'Alger,2024-05-27 18:45,2024-05-29 10:35,39h50,39.84,Attente poste à quai,17272,144.7,8.6,5,0.53,Beau temps,Q2,Lundi,5,2024
+MV Baltic 4,IMO9655900,Céréalier,Port d'Alger,2024-05-28 09:00,2024-05-30 18:30,57h30,57.5,Attente poste à quai,49859,166.7,9.4,6,0.23,Beau temps,Q3,Mardi,5,2024
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2024-05-28 15:45,2024-05-30 03:58,36h14,36.23,Attente pilote,82767,150.6,10.1,5,0.9,Beau temps,Q1,Mardi,5,2024
+MV Baltic 2,IMO9605393,Vraquier,Port d'Alger,2024-05-29 12:00,2024-06-01 07:34,67h35,67.58,Attente déchargement,30077,127.3,7.0,10,1.0,Beau temps,Q6,Mercredi,5,2024
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2024-05-31 03:00,2024-06-01 22:53,43h54,43.89,Attente pilote,14998,134.6,9.1,9,1.0,Beau temps,Q9,Vendredi,5,2024
+MV Cirta 5,IMO9531756,Céréalier,Port d'Alger,2024-06-02 02:40,2024-06-04 15:29,60h50,60.83,Encombrement quai,12658,182.8,10.2,4,0.4,Beau temps,Q6,Dimanche,6,2024
+MSC/CMA Endeavour 9,IMO9588967,Porte-conteneurs,Port d'Alger,2024-06-03 03:40,2024-06-04 08:34,28h55,28.91,Attente poste à quai,71611,196.7,12.6,5,0.58,Beau temps,Q7,Lundi,6,2024
+MSC/CMA Mitidja 3,IMO9169834,Porte-conteneurs,Port d'Alger,2024-06-05 16:00,2024-06-07 16:08,48h08,48.14,Attente pilote,119245,169.7,10.0,10,0.89,Beau temps,Q6,Mercredi,6,2024
+RoRo Baltic 3,IMO9732052,Roulier (Ro-Ro),Port d'Alger,2024-06-11 23:30,2024-06-13 17:12,41h43,41.71,Attente poste à quai,15430,192.0,11.7,7,0.43,Houle,Q5,Mardi,6,2024
+RoRo Endeavour 7,IMO9601253,Roulier (Ro-Ro),Port d'Alger,2024-06-12 00:50,2024-06-13 10:12,33h23,33.38,Attente pilote,28511,185.8,10.6,9,0.67,Beau temps,Q7,Mercredi,6,2024
+MSC/CMA Sahel 1,IMO9743215,Porte-conteneurs,Port d'Alger,2024-06-12 19:10,2024-06-13 21:16,26h06,26.1,Attente pilote,100343,292.1,20.4,5,0.4,Beau temps,Q6,Mercredi,6,2024
+MV Pioneer 6,IMO9234081,Vraquier,Port d'Alger,2024-06-13 20:50,2024-06-16 02:45,53h56,53.93,Attente déchargement,61697,152.8,10.2,5,1.0,Mer agitée,Q7,Jeudi,6,2024
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2024-06-14 23:20,2024-06-17 19:22,68h02,68.04,Attente poste à quai,12748,187.8,12.7,9,0.9,Houle,Q8,Vendredi,6,2024
+MV Hoggar 6,IMO9222955,Vraquier,Port d'Alger,2024-06-16 01:15,2024-06-19 04:22,75h08,75.13,Attente marchandise,63677,132.2,8.1,9,0.65,Mer agitée,Q7,Dimanche,6,2024
+MSC/CMA Cristal 3,IMO9506545,Porte-conteneurs,Port d'Alger,2024-06-16 05:45,2024-06-18 15:32,57h47,57.79,Attente poste à quai,43155,197.4,11.2,9,1.0,Houle,Q7,Dimanche,6,2024
+MV Voyager 3,IMO9315029,Cimentier,Port d'Alger,2024-06-20 10:45,2024-06-23 05:56,67h11,67.18,Mauvais temps,27024,161.8,10.5,10,1.0,Beau temps,Q4,Jeudi,6,2024
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2024-06-21 01:10,2024-06-23 05:46,52h37,52.61,Attente autorisation,80169,174.3,11.0,8,1.0,Beau temps,Q11,Vendredi,6,2024
+MV Mitidja 6,IMO9783790,Vraquier,Port d'Alger,2024-06-21 01:40,2024-06-22 22:35,44h55,44.92,Attente déchargement,26608,176.9,10.0,2,0.64,Beau temps,Q3,Vendredi,6,2024
+MV Atlantic 3,IMO9690855,Cimentier,Port d'Alger,2024-06-23 14:20,2024-06-25 20:57,54h37,54.62,Mauvais temps,11934,113.2,7.0,7,0.52,Beau temps,Q11,Dimanche,6,2024
+MV Diamant 3,IMO9572092,Vraquier,Port d'Alger,2024-06-23 17:45,2024-06-25 20:25,50h41,50.68,Attente marchandise,32729,163.8,10.5,6,0.51,Beau temps,Q10,Dimanche,6,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-06-24 01:20,2024-06-27 07:31,78h12,78.2,Encombrement quai,49311,127.2,7.6,7,0.54,Houle,Q12,Lundi,6,2024
+MV Levant 9,IMO9284303,Vraquier,Port d'Alger,2024-06-24 20:30,2024-06-26 20:48,48h19,48.31,Attente marchandise,11311,132.3,8.3,5,0.92,Houle,Q3,Lundi,6,2024
+MT Levant 6,IMO9170555,Pétrolier,Port d'Alger,2024-06-26 17:10,2024-06-28 19:08,49h58,49.97,Attente poste à quai,37122,184.9,12.2,8,0.48,Houle,Q4,Mercredi,6,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-06-27 02:10,2024-06-28 11:15,33h05,33.09,Attente marchandise,47641,162.7,10.0,3,0.51,Beau temps,Q10,Jeudi,6,2024
+MV Cristal 7,IMO9727744,Cimentier,Port d'Alger,2024-06-30 00:00,2024-07-02 03:21,51h22,51.36,Attente poste à quai,13360,127.6,8.0,6,0.79,Beau temps,Q4,Dimanche,6,2024
+MV Meridian 1,IMO9107629,Vraquier,Port d'Alger,2024-07-06 02:50,2024-07-08 20:36,65h46,65.77,Attente poste à quai,44505,154.6,10.7,5,1.0,Beau temps,Q9,Samedi,7,2024
+MV Djurdjura 1,IMO9443940,Cimentier,Port d'Alger,2024-07-08 05:15,2024-07-10 14:06,56h51,56.85,Mauvais temps,20245,116.9,7.1,5,0.96,Beau temps,Q7,Lundi,7,2024
+MV Kabylie 1,IMO9518317,Céréalier,Port d'Alger,2024-07-12 07:50,2024-07-15 14:30,78h41,78.68,Attente silo disponible,63845,205.2,11.8,3,0.44,Houle,Q8,Vendredi,7,2024
+MV Zaccar 1,IMO9693384,Vraquier,Port d'Alger,2024-07-13 07:45,2024-07-14 20:49,37h04,37.07,Attente poste à quai,41069,178.7,11.5,5,0.48,Beau temps,Q6,Samedi,7,2024
+MSC/CMA Chenoua 9,IMO9822405,Porte-conteneurs,Port d'Alger,2024-07-15 03:20,2024-07-17 14:02,58h43,58.71,Encombrement quai,70970,244.7,15.5,7,1.0,Vent fort,Q12,Lundi,7,2024
+MT Bouzaréah 2,IMO9102170,Pétrolier,Port d'Alger,2024-07-19 10:50,2024-07-21 13:16,50h27,50.44,Attente autorisation,30185,241.5,14.2,11,1.0,Vent fort,Q1,Vendredi,7,2024
+MV Horizon 8,IMO9286090,Vraquier,Port d'Alger,2024-07-19 20:50,2024-07-22 06:17,57h28,57.47,Attente poste à quai,62602,178.3,10.5,8,0.98,Beau temps,Q6,Vendredi,7,2024
+MSC/CMA Atlas 1,IMO9825013,Porte-conteneurs,Port d'Alger,2024-07-20 02:20,2024-07-21 21:33,43h14,43.23,Attente pilote,103637,270.9,17.3,4,0.56,Beau temps,Q10,Samedi,7,2024
+MV Atlantic 9,IMO9694022,Céréalier,Port d'Alger,2024-07-20 09:45,2024-07-23 00:12,62h28,62.46,Attente silo disponible,27381,167.1,11.6,9,0.46,Vent fort,Q4,Samedi,7,2024
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2024-07-21 16:40,2024-07-24 18:28,73h48,73.8,Attente autorisation,28699,213.8,14.4,10,1.0,Beau temps,Q5,Dimanche,7,2024
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2024-07-24 00:40,2024-07-26 17:40,65h01,65.01,Attente autorisation,79753,207.7,12.5,8,1.0,Vent fort,Q8,Mercredi,7,2024
+MV Poseidon 1,IMO9580099,Vraquier,Port d'Alger,2024-07-25 21:15,2024-07-28 20:41,71h27,71.44,Encombrement quai,43724,136.1,9.2,5,1.0,Houle,Q9,Jeudi,7,2024
+MSC/CMA Atlas 2,IMO9146569,Porte-conteneurs,Port d'Alger,2024-07-26 14:35,2024-08-08 19:54,317h20,317.33,Panne grue portuaire majeure,87986,262.5,9.3,19,0.82,Beau temps,Q4,Vendredi,7,2024
+MV Tassili 4,IMO9450513,Cimentier,Port d'Alger,2024-07-27 20:40,2024-07-30 17:14,68h34,68.57,Attente déchargement,11799,100.4,7.0,11,0.74,Vent fort,Q5,Samedi,7,2024
+MV Atlantic 6,IMO9420651,Cimentier,Port d'Alger,2024-08-01 11:15,2024-08-03 12:19,49h05,49.08,Attente poste à quai,12251,161.0,10.5,7,0.75,Vent fort,Q11,Jeudi,8,2024
+MV Numidia 8,IMO9562275,Vraquier,Port d'Alger,2024-08-04 13:00,2024-08-07 12:09,71h09,71.16,Encombrement quai,9934,196.7,11.7,9,0.52,Mer agitée,Q11,Dimanche,8,2024
+MV Atlas 4,IMO9390559,Vraquier,Port d'Alger,2024-08-08 16:45,2024-08-11 11:59,67h14,67.24,Encombrement quai,27170,221.3,12.2,10,1.0,Beau temps,Q3,Jeudi,8,2024
+LNG Cirta 1,IMO9422179,Gazier,Port d'Alger,2024-08-14 23:00,2024-08-16 20:01,45h01,45.02,Attente poste à quai,10663,171.0,10.0,5,0.41,Vent fort,Q4,Mercredi,8,2024
+MV Mitidja 7,IMO9751759,Vraquier,Port d'Alger,2024-08-15 17:15,2024-08-18 10:12,64h57,64.95,Encombrement quai,15981,150.4,10.5,6,0.67,Vent fort,Q7,Jeudi,8,2024
+MV Ocean 7,IMO9886827,Vraquier,Port d'Alger,2024-08-17 02:15,2024-08-19 17:31,63h16,63.27,Attente marchandise,48416,215.8,14.2,9,0.58,Vent fort,Q2,Samedi,8,2024
+MT Diamant 5,IMO9762847,Pétrolier,Port d'Alger,2024-08-21 09:00,2024-08-23 17:10,56h11,56.18,Contrôle douanier,48672,236.4,15.1,10,0.78,Beau temps,Q6,Mercredi,8,2024
+MV Voyager 2,IMO9551033,Céréalier,Port d'Alger,2024-08-22 17:20,2024-08-25 11:26,66h07,66.11,Attente marchandise,61591,164.5,9.2,10,0.81,Beau temps,Q2,Jeudi,8,2024
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2024-08-26 13:20,2024-08-27 23:28,34h09,34.15,Attente grue,91462,205.2,13.2,5,0.32,Beau temps,Q7,Lundi,8,2024
+MSC/CMA Mitidja 9,IMO9502551,Porte-conteneurs,Port d'Alger,2024-08-27 02:30,2024-09-10 11:46,345h17,345.28,Grève des dockers,85526,235.9,15.9,16,0.88,Beau temps,Q10,Mardi,8,2024
+MV Levant 1,IMO9240174,Céréalier,Port d'Alger,2024-08-27 07:20,2024-08-30 19:01,83h42,83.7,Encombrement quai,47380,171.9,10.2,8,0.57,Beau temps,Q1,Mardi,8,2024
+MT Sahel 3,IMO9225772,Pétrolier,Port d'Alger,2024-08-29 18:40,2024-09-01 03:58,57h18,57.3,Attente poste à quai,25596,200.5,13.3,4,1.0,Vent fort,Q5,Jeudi,8,2024
+MV Diamant 1,IMO9526491,Vraquier,Port d'Alger,2024-08-30 18:20,2024-09-02 16:02,69h43,69.71,Attente déchargement,28662,210.6,12.2,7,0.93,Mer agitée,Q2,Vendredi,8,2024
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2024-08-31 17:15,2024-09-02 01:14,31h59,31.99,Attente poste à quai,8813,128.6,7.1,7,0.37,Beau temps,Q9,Samedi,8,2024
+MT Mitidja 1,IMO9952040,Pétrolier,Port d'Alger,2024-09-01 15:20,2024-09-03 19:10,51h51,51.85,Attente autorisation,77764,152.4,10.4,6,0.61,Vent fort,Q9,Dimanche,9,2024
+MV Mitidja 4,IMO9424045,Vraquier,Port d'Alger,2024-09-02 20:50,2024-09-05 02:06,53h17,53.28,Attente marchandise,34334,224.2,12.8,3,0.14,Mer agitée,Q11,Lundi,9,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-09-08 01:10,2024-09-10 15:08,61h59,61.98,Attente déchargement,19188,122.5,8.3,10,0.73,Beau temps,Q11,Dimanche,9,2024
+LNG Mitidja 8,IMO9603853,Gazier,Port d'Alger,2024-09-08 10:15,2024-09-10 20:20,58h05,58.09,Attente autorisation,12495,156.8,8.8,8,0.85,Vent fort,Q7,Dimanche,9,2024
+MSC/CMA Cirta 5,IMO9601987,Porte-conteneurs,Port d'Alger,2024-09-14 07:10,2024-09-16 03:19,44h09,44.16,Attente grue,37264,241.6,14.8,7,0.36,Beau temps,Q9,Samedi,9,2024
+MV Hoggar 9,IMO9782544,Vraquier,Port d'Alger,2024-09-15 15:20,2024-09-17 09:56,42h37,42.61,Attente poste à quai,46739,144.0,10.0,5,0.17,Houle,Q5,Dimanche,9,2024
+MSC/CMA Voyager 7,IMO9164735,Porte-conteneurs,Port d'Alger,2024-09-15 22:00,2024-09-17 15:54,41h55,41.92,Encombrement quai,54571,281.4,19.3,5,0.73,Beau temps,Q4,Dimanche,9,2024
+MSC/CMA Chenoua 3,IMO9325845,Porte-conteneurs,Port d'Alger,2024-09-19 03:00,2024-09-20 20:08,41h08,41.14,Attente grue,98872,299.7,18.1,9,0.28,Mer agitée,Q2,Jeudi,9,2024
+MV Pioneer 2,IMO9619176,Céréalier,Port d'Alger,2024-09-19 20:20,2024-09-21 21:07,48h47,48.78,Attente silo disponible,34750,180.6,12.4,7,0.21,Vent fort,Q5,Jeudi,9,2024
+RoRo Djurdjura 2,IMO9751816,Roulier (Ro-Ro),Port d'Alger,2024-09-19 21:35,2024-09-27 04:29,174h54,174.9,Grève des dockers,10492,144.8,12.5,19,0.82,Vent fort,Q8,Jeudi,9,2024
+MT Endeavour 3,IMO9593024,Pétrolier,Port d'Alger,2024-09-22 14:40,2024-09-25 04:27,61h47,61.78,Attente pilote,47104,167.4,10.1,7,0.9,Mer agitée,Q7,Dimanche,9,2024
+MT Atlas 9,IMO9757273,Pétrolier,Port d'Alger,2024-09-26 00:00,2024-09-27 17:47,41h48,41.8,Attente pilote,51537,210.8,12.4,5,0.7,Beau temps,Q1,Jeudi,9,2024
+MT Horizon 7,IMO9478987,Pétrolier,Port d'Alger,2024-09-28 02:50,2024-09-29 21:11,42h22,42.36,Contrôle douanier,87846,172.6,10.3,2,0.46,Mer agitée,Q11,Samedi,9,2024
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2024-09-30 11:20,2024-10-02 17:42,54h23,54.38,Attente déchargement,63097,168.8,10.1,6,0.95,Beau temps,Q12,Lundi,9,2024
+MT Aurès 7,IMO9089856,Pétrolier,Port d'Alger,2024-10-01 07:40,2024-10-03 04:09,44h30,44.5,Attente pilote,27497,209.5,12.4,8,0.63,Vent fort,Q4,Mardi,10,2024
+MSC/CMA Zaccar 1,IMO9843646,Porte-conteneurs,Port d'Alger,2024-10-02 09:40,2024-10-08 07:58,142h19,142.31,Avarie technique nécessitant expertise,29014,169.0,14.3,20,0.97,Brouillard,Q2,Mercredi,10,2024
+MT Hoggar 5,IMO9735911,Pétrolier,Port d'Alger,2024-10-04 02:00,2024-10-05 05:49,27h49,27.82,Attente poste à quai,54771,165.5,9.6,5,0.05,Houle,Q4,Vendredi,10,2024
+MT Sahara 6,IMO9633052,Pétrolier,Port d'Alger,2024-10-04 02:50,2024-10-05 01:38,22h49,22.81,Attente poste à quai,14114,199.6,12.8,3,0.15,Beau temps,Q3,Vendredi,10,2024
+MV Atlas 4,IMO9306278,Vraquier,Port d'Alger,2024-10-04 13:50,2024-10-06 14:01,48h12,48.2,Attente déchargement,63892,143.6,8.0,5,0.67,Beau temps,Q9,Vendredi,10,2024
+MV Poseidon 2,IMO9948729,Vraquier,Port d'Alger,2024-10-08 04:10,2024-10-10 13:58,57h49,57.81,Attente déchargement,34447,134.7,9.3,11,0.82,Beau temps,Q8,Mardi,10,2024
+MV Atlas 7,IMO9348354,Vraquier,Port d'Alger,2024-10-12 19:20,2024-10-15 13:19,65h59,65.98,Encombrement quai,40638,150.5,10.4,4,0.7,Houle,Q6,Samedi,10,2024
+MSC/CMA Atlas 5,IMO9256787,Porte-conteneurs,Port d'Alger,2024-10-13 06:50,2024-10-14 17:53,35h03,35.06,Attente poste à quai,108345,235.4,15.2,5,0.88,Beau temps,Q2,Dimanche,10,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-10-13 11:30,2024-10-15 13:22,49h53,49.88,Attente marchandise,47525,197.1,13.1,5,0.54,Vent fort,Q12,Dimanche,10,2024
+MV Zaccar 7,IMO9631718,Céréalier,Port d'Alger,2024-10-15 11:30,2024-10-17 02:54,39h25,39.42,Attente silo disponible,60038,173.5,10.0,4,0.3,Brouillard,Q9,Mardi,10,2024
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2024-10-19 04:30,2024-10-21 04:47,48h17,48.29,Attente grue,75973,225.8,12.9,7,0.71,Beau temps,Q7,Samedi,10,2024
+MV Voyager 1,IMO9588508,Vraquier,Port d'Alger,2024-10-19 12:50,2024-10-21 09:53,45h03,45.05,Attente marchandise,49723,185.9,10.7,3,0.35,Beau temps,Q12,Samedi,10,2024
+RoRo Cirta 2,IMO9549857,Roulier (Ro-Ro),Port d'Alger,2024-10-25 22:45,2024-10-26 23:43,24h58,24.97,Attente poste à quai,25308,175.7,11.5,6,0.54,Beau temps,Q10,Vendredi,10,2024
+MV Sahel 7,IMO9277306,Céréalier,Port d'Alger,2024-10-26 10:35,2024-11-03 00:46,182h11,182.19,Saturation totale du port,14485,203.0,14.4,20,0.98,Beau temps,Q4,Samedi,10,2024
+MV Meridian 8,IMO9271782,Céréalier,Port d'Alger,2024-10-30 13:50,2024-11-02 01:38,59h49,59.81,Attente marchandise,19772,152.0,10.1,3,0.08,Vent fort,Q9,Mercredi,10,2024
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2024-11-01 14:40,2024-11-03 08:25,41h45,41.75,Attente grue,69068,174.2,9.8,3,0.58,Mer agitée,Q11,Vendredi,11,2024
+MSC/CMA Levant 6,IMO9605397,Porte-conteneurs,Port d'Alger,2024-11-02 20:40,2024-11-04 03:22,30h43,30.71,Attente poste à quai,34029,160.0,10.6,4,0.05,Vent fort,Q7,Samedi,11,2024
+MSC/CMA Endeavour 1,IMO9182176,Porte-conteneurs,Port d'Alger,2024-11-03 12:15,2024-11-05 13:41,49h26,49.44,Attente pilote,70909,234.7,15.0,12,0.75,Beau temps,Q1,Dimanche,11,2024
+MV Chenoua 8,IMO9027560,Cimentier,Port d'Alger,2024-11-07 07:10,2024-11-09 00:56,41h46,41.77,Mauvais temps,28763,142.0,9.4,3,0.34,Beau temps,Q6,Jeudi,11,2024
+MV Endeavour 9,IMO9778932,Céréalier,Port d'Alger,2024-11-14 15:50,2024-11-25 09:55,258h05,258.09,Tempête majeure / Fermeture du port,14168,171.4,8.3,18,0.96,Beau temps,Q10,Jeudi,11,2024
+RoRo Star 4,IMO9210647,Roulier (Ro-Ro),Port d'Alger,2024-11-15 09:40,2024-11-17 02:12,40h33,40.55,Attente pilote,23895,187.4,11.6,7,0.82,Beau temps,Q5,Vendredi,11,2024
+MV Tassili 4,IMO9692816,Vraquier,Port d'Alger,2024-11-20 15:50,2024-11-27 00:07,152h17,152.29,Panne grue portuaire majeure,57921,165.5,12.2,11,0.92,Houle,Q5,Mercredi,11,2024
+RoRo Bouzaréah 8,IMO9343187,Roulier (Ro-Ro),Port d'Alger,2024-11-21 23:30,2024-11-23 08:48,33h18,33.3,Attente pilote,34653,163.2,11.0,7,0.34,Mer agitée,Q2,Jeudi,11,2024
+MT Star 4,IMO9335872,Pétrolier,Port d'Alger,2024-11-24 11:50,2024-11-26 21:33,57h44,57.73,Attente poste à quai,52855,189.4,12.8,11,0.82,Beau temps,Q3,Dimanche,11,2024
+LNG Hoggar 3,IMO9852728,Gazier,Port d'Alger,2024-11-27 21:55,2024-12-06 18:07,212h12,212.2,Attente prolongée poste à quai,15637,190.6,9.6,18,0.86,Brouillard,Q11,Mercredi,11,2024
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2024-11-28 09:10,2024-11-30 05:30,44h21,44.35,Encombrement quai,87091,167.2,10.2,5,0.47,Brouillard,Q3,Jeudi,11,2024
+MSC/CMA Kabylie 6,IMO9170395,Porte-conteneurs,Port d'Alger,2024-11-29 14:15,2024-12-01 04:41,38h26,38.44,Encombrement quai,57746,159.9,9.6,6,0.54,Beau temps,Q10,Vendredi,11,2024
+RoRo Horizon 2,IMO9296439,Roulier (Ro-Ro),Port d'Alger,2024-12-01 08:15,2024-12-02 16:25,32h10,32.17,Attente poste à quai,32887,188.7,12.8,5,0.85,Beau temps,Q8,Dimanche,12,2024
+MV Meridian 7,IMO9446980,Vraquier,Port d'Alger,2024-12-03 09:50,2024-12-06 06:30,68h41,68.68,Encombrement quai,57632,206.1,13.1,10,0.27,Mer agitée,Q12,Mardi,12,2024
+MT Neptune 8,IMO9334400,Pétrolier,Port d'Alger,2024-12-03 15:40,2024-12-05 21:50,54h10,54.17,Attente poste à quai,47303,226.1,13.0,8,0.92,Beau temps,Q12,Mardi,12,2024
+RoRo Tassili 7,IMO9812085,Roulier (Ro-Ro),Port d'Alger,2024-12-06 19:15,2024-12-08 11:36,40h21,40.36,Attente pilote,24969,123.4,8.6,9,0.42,Beau temps,Q1,Vendredi,12,2024
+MSC/CMA Sahel 9,IMO9230283,Porte-conteneurs,Port d'Alger,2024-12-09 20:45,2024-12-11 08:32,35h47,35.79,Attente poste à quai,101366,270.6,17.1,6,0.82,Beau temps,Q4,Lundi,12,2024
+RoRo Tassili 2,IMO9352909,Roulier (Ro-Ro),Port d'Alger,2024-12-13 11:10,2024-12-15 08:21,45h12,45.19,Attente poste à quai,11372,187.1,12.2,9,0.9,Beau temps,Q3,Vendredi,12,2024
+MSC/CMA Star 7,IMO9391435,Porte-conteneurs,Port d'Alger,2024-12-13 17:00,2024-12-14 23:17,30h17,30.29,Attente poste à quai,20455,267.9,15.5,4,0.29,Beau temps,Q6,Vendredi,12,2024
+MV Emeraude 7,IMO9082627,Vraquier,Port d'Alger,2024-12-14 08:40,2024-12-16 19:55,59h16,59.26,Encombrement quai,16141,196.1,11.4,5,0.6,Beau temps,Q8,Samedi,12,2024
+RoRo Star 2,IMO9638720,Roulier (Ro-Ro),Port d'Alger,2024-12-14 15:00,2024-12-17 01:23,58h23,58.38,Attente poste à quai,11838,145.0,9.7,12,0.85,Beau temps,Q6,Samedi,12,2024
+MT Sahara 5,IMO9756648,Pétrolier,Port d'Alger,2024-12-22 06:45,2024-12-24 09:33,50h49,50.81,Attente poste à quai,31932,157.9,8.9,5,0.45,Beau temps,Q1,Dimanche,12,2024
+MV Aurès 2,IMO9623939,Vraquier,Port d'Alger,2024-12-23 05:00,2024-12-24 18:24,37h24,37.41,Attente déchargement,62926,213.8,12.7,3,0.15,Beau temps,Q7,Lundi,12,2024
+MV Atlantic 6,IMO9075576,Cimentier,Port d'Alger,2024-12-26 22:20,2024-12-28 21:46,47h27,47.45,Mauvais temps,14515,161.5,11.0,5,0.36,Beau temps,Q1,Jeudi,12,2024
+RoRo Ocean 5,IMO9639711,Roulier (Ro-Ro),Port d'Alger,2024-12-27 10:40,2024-12-29 04:04,41h25,41.41,Attente poste à quai,38913,180.9,12.5,6,0.82,Beau temps,Q5,Vendredi,12,2024
+MSC/CMA Pioneer 4,IMO9171339,Porte-conteneurs,Port d'Alger,2024-12-28 00:10,2024-12-30 06:18,54h09,54.15,Attente grue,114674,195.8,11.3,6,0.94,Vent fort,Q2,Samedi,12,2024
+RoRo Meridian 9,IMO9037642,Roulier (Ro-Ro),Port d'Alger,2024-12-28 12:40,2024-12-29 16:32,27h53,27.88,Attente poste à quai,18723,179.5,10.3,3,0.28,Mer agitée,Q11,Samedi,12,2024
+MV Horizon 5,IMO9886486,Céréalier,Port d'Alger,2024-12-30 20:50,2025-01-02 23:43,74h53,74.89,Attente silo disponible,52663,178.8,11.2,3,0.78,Beau temps,Q5,Lundi,12,2024
+Céréalier Synth-001,IMO9600000,Céréalier,Port d'Alger,2023-04-26 23:45,2023-05-11 05:36,341h51,341.85,Grève des dockers,15827,196.75,13.57,10,0.7,Brouillard,Q10,Mercredi,4,2023
+Cimentier Synth-002,IMO9600001,Cimentier,Port d'Alger,2023-12-07 15:35,2023-12-21 06:11,326h36,326.6,Encombrement quai sévère,15396,135.19,7.44,17,0.71,Vent fort,Q5,Jeudi,12,2023
+Gazier Synth-003,IMO9600002,Gazier,Port d'Alger,2024-09-05 19:45,2024-09-18 19:26,311h41,311.68333333333334,Conflit social au port,12947,168.22,9.74,17,0.77,Mer agitée,Q4,Jeudi,9,2024
+Porte-conteneurs Synth-004,IMO9600003,Porte-conteneurs,Port d'Alger,2023-05-30 14:40,2023-06-06 16:09,169h29,169.48333333333332,Conflit social au port,105941,246.07,14.47,12,0.7,Houle,Q3,Mardi,5,2023
+Porte-conteneurs Synth-005,IMO9600004,Porte-conteneurs,Port d'Alger,2022-11-12 23:50,2022-11-20 02:48,170h58,170.96666666666667,Encombrement quai sévère,57720,283.13,16.01,16,0.75,Mer agitée,Q4,Samedi,11,2022
+Pétrolier Synth-006,IMO9600005,Pétrolier,Port d'Alger,2022-06-03 05:00,2022-06-09 01:03,140h03,140.05,Conflit social au port,69531,170.11,11.54,8,0.7,Mer agitée,Q1,Vendredi,6,2022
+Vraquier Synth-007,IMO9600006,Vraquier,Port d'Alger,2024-12-13 00:55,2024-12-24 14:56,278h01,278.01666666666665,Encombrement quai sévère,41573,212.31,14.41,11,0.7,Beau temps,Q11,Vendredi,12,2024
+Pétrolier Synth-008,IMO9600007,Pétrolier,Port d'Alger,2023-03-25 10:45,2023-04-07 08:46,310h01,310.01666666666665,Grève des dockers,13516,235.42,13.93,14,0.7,Houle,Q5,Samedi,3,2023
+Pétrolier Synth-009,IMO9600008,Pétrolier,Port d'Alger,2023-06-28 04:25,2023-07-06 07:39,195h14,195.23333333333332,Panne système informatique portuaire,37234,211.63,10.22,8,0.7,Beau temps,Q8,Mercredi,6,2023
+Vraquier Synth-010,IMO9600009,Vraquier,Port d'Alger,2024-04-17 13:30,2024-05-01 20:31,343h01,343.01666666666665,Conflit social au port,60392,140.29,9.91,15,0.7,Vent fort,Q11,Mercredi,4,2024
+Pétrolier Synth-011,IMO9600010,Pétrolier,Port d'Alger,2023-08-23 09:15,2023-09-06 18:46,345h31,345.51666666666665,Saturation totale du port,14147,190.95,13.82,17,0.76,Mer agitée,Q9,Mercredi,8,2023
+Vraquier Synth-012,IMO9600011,Vraquier,Port d'Alger,2022-07-16 16:10,2022-07-23 19:51,171h41,171.68333333333334,Grève des dockers,17494,196.26,13.93,10,0.7,Vent fort,Q9,Samedi,7,2022
+Vraquier Synth-013,IMO9600012,Vraquier,Port d'Alger,2022-06-16 00:50,2022-06-27 04:15,267h25,267.4166666666667,Grève des dockers,50198,137.85,9.83,24,0.99,Vent fort,Q11,Jeudi,6,2022
+Porte-conteneurs Synth-014,IMO9600013,Porte-conteneurs,Port d'Alger,2023-08-21 07:15,2023-08-27 16:30,153h15,153.25,Attente prolongée poste à quai,43890,234.25,13.66,16,0.73,Mer agitée,Q8,Lundi,8,2023
+Céréalier Synth-015,IMO9600014,Céréalier,Port d'Alger,2024-10-25 20:10,2024-10-31 23:39,147h29,147.48333333333332,Encombrement quai sévère,37735,220.87,13.46,11,0.7,Houle,Q11,Vendredi,10,2024
+Cimentier Synth-016,IMO9600015,Cimentier,Port d'Alger,2023-11-27 17:55,2023-12-05 14:19,188h24,188.4,Avarie technique nécessitant expertise,18341,149.63,10.14,18,0.75,Houle,Q4,Lundi,11,2023
+Roulier Synth-017,IMO9600016,Roulier (Ro-Ro),Port d'Alger,2022-09-02 20:30,2022-09-11 01:53,197h23,197.38333333333333,Attente silo disponible (saturation),39975,164.4,10.33,14,0.75,Beau temps,Q2,Vendredi,9,2022
+Vraquier Synth-018,IMO9600017,Vraquier,Port d'Alger,2022-02-04 23:20,2022-02-17 20:32,309h12,309.2,Encombrement quai sévère,20422,120.57,8.3,22,0.8,Beau temps,Q11,Vendredi,2,2022
+Vraquier Synth-019,IMO9600018,Vraquier,Port d'Alger,2024-10-21 00:45,2024-10-28 02:31,169h46,169.76666666666668,Saturation totale du port,26486,200.6,10.32,8,0.7,Mer agitée,Q11,Lundi,10,2024
+Céréalier Synth-020,IMO9600019,Céréalier,Port d'Alger,2022-04-03 11:35,2022-04-08 15:18,123h43,123.71666666666667,Avarie technique nécessitant expertise,36312,178.88,10.02,13,0.7,Houle,Q7,Dimanche,4,2022
+Cimentier Synth-021,IMO9600020,Cimentier,Port d'Alger,2023-07-02 01:30,2023-07-12 06:36,245h06,245.1,Pénurie de pilotes,31129,125.18,7.59,16,0.75,Vent fort,Q6,Dimanche,7,2023
+Porte-conteneurs Synth-022,IMO9600021,Porte-conteneurs,Port d'Alger,2023-11-27 04:00,2023-12-02 07:16,123h16,123.26666666666667,Attente prolongée poste à quai,30414,156.61,10.14,13,0.7,Mer agitée,Q7,Lundi,11,2023
+Pétrolier Synth-023,IMO9600022,Pétrolier,Port d'Alger,2024-11-20 23:35,2024-11-28 18:46,187h11,187.18333333333334,Encombrement quai sévère,76494,184.05,11.39,11,0.73,Beau temps,Q11,Mercredi,11,2024
+Roulier Synth-024,IMO9600023,Roulier (Ro-Ro),Port d'Alger,2022-12-16 07:20,2022-12-22 10:58,147h38,147.63333333333333,Pénurie de pilotes,26949,169.08,10.01,14,0.7,Beau temps,Q2,Vendredi,12,2022
+Vraquier Synth-025,IMO9600024,Vraquier,Port d'Alger,2023-04-16 10:45,2023-04-25 03:48,209h03,209.05,Tempête majeure / Fermeture du port,64918,212.97,14.03,16,0.74,Houle,Q7,Dimanche,4,2023
+Pétrolier Synth-026,IMO9600025,Pétrolier,Port d'Alger,2023-04-02 04:55,2023-04-07 16:08,131h13,131.21666666666667,Panne grue portuaire majeure,35181,140.83,10.46,10,0.7,Beau temps,Q8,Dimanche,4,2023
+Cimentier Synth-027,IMO9600026,Cimentier,Port d'Alger,2024-12-09 13:35,2024-12-24 00:21,346h46,346.76666666666665,Panne système informatique portuaire,19351,147.08,6.8,14,0.7,Mer agitée,Q9,Lundi,12,2024
+Porte-conteneurs Synth-028,IMO9600027,Porte-conteneurs,Port d'Alger,2023-12-02 22:25,2023-12-10 01:23,170h58,170.96666666666667,Conflit social au port,109163,249.48,14.26,17,0.83,Houle,Q3,Samedi,12,2023
+Pétrolier Synth-029,IMO9600028,Pétrolier,Port d'Alger,2022-11-22 08:40,2022-12-07 03:39,354h59,354.98333333333335,Conflit social au port,43175,215.2,10.54,21,0.85,Vent fort,Q8,Mardi,11,2022
+Pétrolier Synth-030,IMO9600029,Pétrolier,Port d'Alger,2022-11-12 19:20,2022-11-20 07:42,180h22,180.36666666666667,Saturation totale du port,27659,169.51,10.6,15,0.77,Beau temps,Q11,Samedi,11,2022
+Vraquier Synth-031,IMO9600030,Vraquier,Port d'Alger,2024-11-16 21:25,2024-11-30 21:02,335h37,335.6166666666667,Attente silo disponible (saturation),37722,133.61,9.65,12,0.7,Beau temps,Q6,Samedi,11,2024
+Pétrolier Synth-032,IMO9600031,Pétrolier,Port d'Alger,2023-09-20 08:35,2023-09-29 20:59,228h24,228.4,Attente silo disponible (saturation),36366,254.89,15.01,17,0.83,Mer agitée,Q3,Mercredi,9,2023
+Vraquier Synth-033,IMO9600032,Vraquier,Port d'Alger,2023-12-22 23:45,2024-01-03 01:54,266h09,266.15,Saturation totale du port,64803,162.97,10.03,20,0.82,Brouillard,Q12,Vendredi,12,2023
+Vraquier Synth-034,IMO9600033,Vraquier,Port d'Alger,2022-06-11 23:05,2022-06-25 13:21,326h16,326.26666666666665,Tempête majeure / Fermeture du port,48970,187.32,10.91,22,0.81,Houle,Q4,Samedi,6,2022
+Gazier Synth-035,IMO9600034,Gazier,Port d'Alger,2024-02-26 15:10,2024-03-10 10:17,307h07,307.1166666666667,Attente prolongée poste à quai,12916,158.08,11.72,15,0.7,Mer agitée,Q12,Lundi,2,2024
+Roulier Synth-036,IMO9600035,Roulier (Ro-Ro),Port d'Alger,2022-11-20 16:45,2022-11-29 17:06,216h21,216.35,Encombrement quai sévère,8068,145.11,12.21,18,0.79,Beau temps,Q8,Dimanche,11,2022
+Roulier Synth-037,IMO9600036,Roulier (Ro-Ro),Port d'Alger,2022-04-27 15:05,2022-05-11 19:01,339h56,339.93333333333334,Panne système informatique portuaire,32165,166.69,9.59,19,0.8,Beau temps,Q11,Mercredi,4,2022
+Vraquier Synth-038,IMO9600037,Vraquier,Port d'Alger,2024-09-25 00:30,2024-10-01 11:55,155h25,155.41666666666666,Grève des dockers,22386,127.93,8.12,19,0.7,Vent fort,Q9,Mercredi,9,2024
+Roulier Synth-039,IMO9600038,Roulier (Ro-Ro),Port d'Alger,2024-10-13 19:45,2024-10-28 01:38,341h53,341.8833333333333,Attente prolongée poste à quai,31705,163.91,8.8,15,0.78,Mer agitée,Q11,Dimanche,10,2024
+Vraquier Synth-040,IMO9600039,Vraquier,Port d'Alger,2022-10-24 17:45,2022-11-06 02:47,297h02,297.03333333333336,Panne grue portuaire majeure,29039,151.43,10.57,17,0.71,Beau temps,Q5,Lundi,10,2022
+Vraquier Synth-041,IMO9600040,Vraquier,Port d'Alger,2022-07-21 03:25,2022-08-03 18:56,327h31,327.51666666666665,Attente silo disponible (saturation),49149,196.37,10.47,15,0.73,Beau temps,Q12,Jeudi,7,2022
+Céréalier Synth-042,IMO9600041,Céréalier,Port d'Alger,2023-12-13 12:45,2023-12-26 09:39,308h54,308.9,Panne grue portuaire majeure,51374,166.46,10.12,17,0.84,Beau temps,Q8,Mercredi,12,2023
+Porte-conteneurs Synth-043,IMO9600042,Porte-conteneurs,Port d'Alger,2023-11-01 14:45,2023-11-10 10:31,211h46,211.76666666666668,Conflit social au port,18218,152.79,10.31,8,0.7,Beau temps,Q8,Mercredi,11,2023
+Vraquier Synth-044,IMO9600043,Vraquier,Port d'Alger,2023-01-20 12:50,2023-01-30 20:02,247h12,247.2,Panne système informatique portuaire,10231,176.04,13.9,18,0.76,Mer agitée,Q6,Vendredi,1,2023
+Porte-conteneurs Synth-045,IMO9600044,Porte-conteneurs,Port d'Alger,2024-06-04 20:40,2024-06-19 15:56,355h16,355.26666666666665,Panne grue portuaire majeure,96199,302.24,20.0,15,0.7,Beau temps,Q8,Mardi,6,2024
+Vraquier Synth-046,IMO9600045,Vraquier,Port d'Alger,2022-03-27 02:15,2022-04-03 10:12,175h57,175.95,Tempête majeure / Fermeture du port,12123,190.14,11.6,8,0.7,Houle,Q10,Dimanche,3,2022
+Pétrolier Synth-047,IMO9600046,Pétrolier,Port d'Alger,2024-01-03 14:20,2024-01-15 20:06,293h46,293.76666666666665,Contrôle sanitaire approfondi,13768,191.99,11.46,17,0.73,Mer agitée,Q10,Mercredi,1,2024
+Vraquier Synth-048,IMO9600047,Vraquier,Port d'Alger,2024-01-10 17:25,2024-01-17 23:59,174h34,174.56666666666666,Pénurie de pilotes,14356,223.33,12.08,20,0.88,Mer agitée,Q2,Mercredi,1,2024
+Porte-conteneurs Synth-049,IMO9600048,Porte-conteneurs,Port d'Alger,2024-07-12 20:00,2024-07-18 18:40,142h40,142.66666666666666,Conflit social au port,32503,162.89,9.77,23,0.85,Beau temps,Q7,Vendredi,7,2024
+Vraquier Synth-050,IMO9600049,Vraquier,Port d'Alger,2022-08-02 00:55,2022-08-11 08:55,224h00,224.0,Grève des dockers,38681,135.41,8.93,8,0.7,Mer agitée,Q4,Mardi,8,2022
+Vraquier Synth-051,IMO9600050,Vraquier,Port d'Alger,2024-03-05 12:20,2024-03-13 21:06,200h46,200.76666666666668,Attente prolongée poste à quai,48930,230.04,10.97,18,0.79,Vent fort,Q8,Mardi,3,2024
+Roulier Synth-052,IMO9600051,Roulier (Ro-Ro),Port d'Alger,2023-02-26 02:05,2023-03-07 15:48,229h43,229.71666666666667,Grève des dockers,19987,169.8,9.75,15,0.74,Mer agitée,Q6,Dimanche,2,2023
+Vraquier Synth-053,IMO9600052,Vraquier,Port d'Alger,2023-10-29 07:10,2023-11-06 11:18,196h08,196.13333333333333,Panne grue portuaire majeure,8987,125.07,7.89,15,0.73,Brouillard,Q12,Dimanche,10,2023
+Porte-conteneurs Synth-054,IMO9600053,Porte-conteneurs,Port d'Alger,2024-12-15 06:15,2024-12-29 13:30,343h15,343.25,Avarie technique nécessitant expertise,92037,169.34,10.25,14,0.7,Beau temps,Q8,Dimanche,12,2024
+Pétrolier Synth-055,IMO9600054,Pétrolier,Port d'Alger,2023-04-02 20:10,2023-04-16 01:28,317h18,317.3,Saturation totale du port,15211,253.07,14.78,8,0.7,Brouillard,Q9,Dimanche,4,2023
+Gazier Synth-056,IMO9600055,Gazier,Port d'Alger,2022-09-23 02:55,2022-10-05 20:00,305h05,305.0833333333333,Panne grue portuaire majeure,16338,177.75,9.86,13,0.71,Vent fort,Q11,Vendredi,9,2022
+Vraquier Synth-057,IMO9600056,Vraquier,Port d'Alger,2024-10-17 22:55,2024-10-29 00:58,266h03,266.05,Attente prolongée poste à quai,42659,231.5,13.01,10,0.7,Beau temps,Q7,Jeudi,10,2024
+Vraquier Synth-058,IMO9600057,Vraquier,Port d'Alger,2024-11-09 01:00,2024-11-15 11:26,154h26,154.43333333333334,Tempête majeure / Fermeture du port,19099,197.77,12.4,14,0.76,Mer agitée,Q9,Samedi,11,2024
+Vraquier Synth-059,IMO9600058,Vraquier,Port d'Alger,2024-02-17 17:40,2024-02-25 16:53,191h13,191.21666666666667,Attente prolongée poste à quai,53155,146.07,8.82,10,0.7,Beau temps,Q9,Samedi,2,2024
+Vraquier Synth-060,IMO9600059,Vraquier,Port d'Alger,2024-04-29 16:20,2024-05-05 09:35,137h15,137.25,Contrôle sanitaire approfondi,15357,161.52,10.41,10,0.7,Houle,Q7,Lundi,4,2024
+Porte-conteneurs Synth-061,IMO9600060,Porte-conteneurs,Port d'Alger,2022-04-01 07:55,2022-04-07 16:34,152h39,152.65,Conflit social au port,69264,242.93,14.04,16,0.79,Houle,Q10,Vendredi,4,2022
+Vraquier Synth-062,IMO9600061,Vraquier,Port d'Alger,2023-01-15 23:25,2023-01-24 06:13,198h48,198.8,Attente prolongée poste à quai,15921,193.03,12.7,13,0.7,Mer agitée,Q10,Dimanche,1,2023
+Vraquier Synth-063,IMO9600062,Vraquier,Port d'Alger,2022-07-14 09:45,2022-07-27 14:45,317h00,317.0,Panne grue portuaire majeure,22085,152.15,9.45,17,0.75,Houle,Q9,Jeudi,7,2022
+Roulier Synth-064,IMO9600063,Roulier (Ro-Ro),Port d'Alger,2024-05-13 03:55,2024-05-22 22:15,234h20,234.33333333333334,Grève des dockers,38437,132.67,6.74,13,0.7,Mer agitée,Q7,Lundi,5,2024
+Vraquier Synth-065,IMO9600064,Vraquier,Port d'Alger,2022-02-15 00:30,2022-02-21 16:20,159h50,159.83333333333334,Conflit social au port,39217,135.79,9.68,15,0.77,Beau temps,Q9,Mardi,2,2022
+Céréalier Synth-066,IMO9600065,Céréalier,Port d'Alger,2022-08-15 21:15,2022-08-24 14:22,209h07,209.11666666666667,Conflit social au port,65122,177.0,9.58,15,0.75,Vent fort,Q1,Lundi,8,2022
+Porte-conteneurs Synth-067,IMO9600066,Porte-conteneurs,Port d'Alger,2023-04-18 17:10,2023-05-03 07:38,350h28,350.46666666666664,Encombrement quai sévère,68000,163.64,10.85,21,0.73,Houle,Q12,Mardi,4,2023
+Cimentier Synth-068,IMO9600067,Cimentier,Port d'Alger,2022-02-23 05:30,2022-03-05 22:14,256h44,256.73333333333335,Pénurie de pilotes,11411,139.2,10.72,18,0.77,Vent fort,Q4,Mercredi,2,2022
+Vraquier Synth-069,IMO9600068,Vraquier,Port d'Alger,2023-11-11 15:45,2023-11-21 11:08,235h23,235.38333333333333,Panne grue portuaire majeure,47943,153.61,10.21,8,0.7,Vent fort,Q6,Samedi,11,2023
+Roulier Synth-070,IMO9600069,Roulier (Ro-Ro),Port d'Alger,2022-10-06 15:50,2022-10-20 07:06,327h16,327.26666666666665,Panne grue portuaire majeure,42170,197.73,12.98,24,0.93,Vent fort,Q11,Jeudi,10,2022
+Vraquier Synth-071,IMO9600070,Vraquier,Port d'Alger,2023-03-30 18:05,2023-04-06 11:48,161h43,161.71666666666667,Grève des dockers,41245,222.1,13.15,8,0.7,Beau temps,Q2,Jeudi,3,2023
+Vraquier Synth-072,IMO9600071,Vraquier,Port d'Alger,2024-09-02 10:10,2024-09-09 11:04,168h54,168.9,Pénurie de pilotes,28039,123.85,7.07,11,0.7,Mer agitée,Q12,Lundi,9,2024
+Gazier Synth-073,IMO9600072,Gazier,Port d'Alger,2023-10-03 17:45,2023-10-09 20:40,146h55,146.91666666666666,Attente prolongée poste à quai,11417,146.3,9.85,15,0.7,Beau temps,Q11,Mardi,10,2023
+Pétrolier Synth-074,IMO9600073,Pétrolier,Port d'Alger,2024-07-05 11:45,2024-07-11 05:37,137h52,137.86666666666667,Encombrement quai sévère,14547,196.98,11.62,20,0.81,Mer agitée,Q10,Vendredi,7,2024
+Céréalier Synth-075,IMO9600074,Céréalier,Port d'Alger,2023-09-14 08:05,2023-09-29 07:05,359h00,359.0,Conflit social au port,51120,163.34,9.1,16,0.73,Brouillard,Q3,Jeudi,9,2023
+Roulier Synth-076,IMO9600075,Roulier (Ro-Ro),Port d'Alger,2023-03-09 21:50,2023-03-17 02:14,172h24,172.4,Avarie technique nécessitant expertise,8654,115.09,6.53,13,0.75,Vent fort,Q6,Jeudi,3,2023
+Céréalier Synth-077,IMO9600076,Céréalier,Port d'Alger,2024-08-20 15:35,2024-08-30 03:08,227h33,227.55,Saturation totale du port,30344,205.53,11.45,8,0.7,Mer agitée,Q10,Mardi,8,2024
+Céréalier Synth-078,IMO9600077,Céréalier,Port d'Alger,2022-04-20 10:40,2022-05-01 08:12,261h32,261.53333333333336,Grève des dockers,16792,220.95,13.95,24,0.88,Brouillard,Q8,Mercredi,4,2022
+Pétrolier Synth-079,IMO9600078,Pétrolier,Port d'Alger,2023-09-29 17:45,2023-10-09 18:01,240h16,240.26666666666668,Avarie technique nécessitant expertise,55078,177.1,11.8,13,0.72,Houle,Q11,Vendredi,9,2023
+Pétrolier Synth-080,IMO9600079,Pétrolier,Port d'Alger,2022-01-26 23:00,2022-02-02 19:50,164h50,164.83333333333334,Attente silo disponible (saturation),65873,213.76,14.17,16,0.71,Beau temps,Q8,Mercredi,1,2022
+Vraquier Synth-081,IMO9600080,Vraquier,Port d'Alger,2022-05-21 05:55,2022-06-02 11:49,293h54,293.9,Panne système informatique portuaire,36741,196.48,11.88,8,0.7,Beau temps,Q9,Samedi,5,2022
+Cimentier Synth-082,IMO9600081,Cimentier,Port d'Alger,2022-04-26 07:40,2022-05-11 04:51,357h11,357.18333333333334,Grève des dockers,8423,125.8,9.87,17,0.81,Mer agitée,Q4,Mardi,4,2022
+Pétrolier Synth-083,IMO9600082,Pétrolier,Port d'Alger,2023-07-25 23:45,2023-08-02 05:48,174h03,174.05,Attente prolongée poste à quai,26233,195.2,10.75,12,0.7,Beau temps,Q4,Mardi,7,2023
+Céréalier Synth-084,IMO9600083,Céréalier,Port d'Alger,2022-02-17 07:15,2022-03-02 02:29,307h14,307.23333333333335,Attente prolongée poste à quai,44093,217.09,13.77,10,0.7,Brouillard,Q6,Jeudi,2,2022
+Vraquier Synth-085,IMO9600084,Vraquier,Port d'Alger,2024-08-21 08:15,2024-09-05 00:43,352h28,352.46666666666664,Tempête majeure / Fermeture du port,58853,133.02,9.66,18,0.84,Mer agitée,Q9,Mercredi,8,2024
+Céréalier Synth-086,IMO9600085,Céréalier,Port d'Alger,2022-12-26 22:00,2023-01-05 11:28,229h28,229.46666666666667,Panne grue portuaire majeure,58516,200.74,13.42,14,0.71,Beau temps,Q1,Lundi,12,2022
+Vraquier Synth-087,IMO9600086,Vraquier,Port d'Alger,2023-02-13 08:20,2023-02-21 04:19,187h59,187.98333333333332,Grève des dockers,28339,214.21,9.23,19,0.8,Beau temps,Q9,Lundi,2,2023
+Pétrolier Synth-088,IMO9600087,Pétrolier,Port d'Alger,2023-12-25 19:40,2024-01-09 08:46,349h06,349.1,Saturation totale du port,70850,169.34,11.75,8,0.7,Vent fort,Q11,Lundi,12,2023
+Céréalier Synth-089,IMO9600088,Céréalier,Port d'Alger,2023-12-22 15:45,2024-01-06 03:22,347h37,347.6166666666667,Encombrement quai sévère,11970,202.41,14.31,16,0.7,Mer agitée,Q3,Vendredi,12,2023
+Vraquier Synth-090,IMO9600089,Vraquier,Port d'Alger,2023-03-12 15:55,2023-03-17 20:29,124h34,124.56666666666666,Panne système informatique portuaire,32080,148.8,9.01,17,0.78,Beau temps,Q6,Dimanche,3,2023
+Pétrolier Synth-091,IMO9600090,Pétrolier,Port d'Alger,2022-03-21 20:10,2022-04-04 04:44,320h34,320.56666666666666,Encombrement quai sévère,38636,225.95,14.58,19,0.81,Beau temps,Q3,Lundi,3,2022
+Pétrolier Synth-092,IMO9600091,Pétrolier,Port d'Alger,2022-11-28 12:05,2022-12-11 22:04,321h59,321.98333333333335,Saturation totale du port,85136,193.0,11.14,15,0.74,Brouillard,Q2,Lundi,11,2022
+Pétrolier Synth-093,IMO9600092,Pétrolier,Port d'Alger,2023-01-11 05:05,2023-01-20 05:05,216h00,216.0,Pénurie de pilotes,54465,244.75,13.32,17,0.79,Mer agitée,Q3,Mercredi,1,2023
+Vraquier Synth-094,IMO9600093,Vraquier,Port d'Alger,2024-05-02 19:40,2024-05-15 22:28,314h48,314.8,Saturation totale du port,23146,201.2,11.38,16,0.73,Beau temps,Q4,Jeudi,5,2024
+Vraquier Synth-095,IMO9600094,Vraquier,Port d'Alger,2023-08-18 02:15,2023-08-30 07:11,292h56,292.93333333333334,Panne grue portuaire majeure,14143,169.26,9.75,16,0.74,Beau temps,Q6,Vendredi,8,2023
+Vraquier Synth-096,IMO9600095,Vraquier,Port d'Alger,2023-03-15 10:45,2023-03-29 11:22,336h37,336.6166666666667,Conflit social au port,49876,224.91,13.37,19,0.82,Beau temps,Q7,Mercredi,3,2023
+Porte-conteneurs Synth-097,IMO9600096,Porte-conteneurs,Port d'Alger,2022-09-25 15:15,2022-10-10 10:41,355h26,355.43333333333334,Attente prolongée poste à quai,29332,185.53,13.32,17,0.7,Brouillard,Q2,Dimanche,9,2022
+Vraquier Synth-098,IMO9600097,Vraquier,Port d'Alger,2023-12-08 16:40,2023-12-16 13:20,188h40,188.66666666666666,Panne grue portuaire majeure,69570,138.44,7.98,15,0.79,Vent fort,Q9,Vendredi,12,2023
+Porte-conteneurs Synth-099,IMO9600098,Porte-conteneurs,Port d'Alger,2024-05-24 00:55,2024-06-05 21:13,308h18,308.3,Attente silo disponible (saturation),92113,273.05,18.23,10,0.7,Vent fort,Q4,Vendredi,5,2024
+Pétrolier Synth-100,IMO9600099,Pétrolier,Port d'Alger,2024-10-19 10:05,2024-11-01 02:16,304h11,304.18333333333334,Pénurie de pilotes,30783,208.36,11.35,17,0.76,Vent fort,Q12,Samedi,10,2024
+Vraquier Synth-101,IMO9600100,Vraquier,Port d'Alger,2023-07-10 00:20,2023-07-20 13:15,252h55,252.91666666666666,Panne système informatique portuaire,41335,142.13,9.56,13,0.74,Beau temps,Q4,Lundi,7,2023
+Porte-conteneurs Synth-102,IMO9600101,Porte-conteneurs,Port d'Alger,2022-07-14 21:30,2022-07-20 17:40,140h10,140.16666666666666,Tempête majeure / Fermeture du port,103385,212.1,14.18,19,0.73,Houle,Q7,Jeudi,7,2022
+Roulier Synth-103,IMO9600102,Roulier (Ro-Ro),Port d'Alger,2022-07-03 10:50,2022-07-16 07:28,308h38,308.6333333333333,Attente prolongée poste à quai,9634,179.27,9.9,21,0.81,Mer agitée,Q6,Dimanche,7,2022
+Porte-conteneurs Synth-104,IMO9600103,Porte-conteneurs,Port d'Alger,2024-07-21 08:15,2024-07-27 03:49,139h34,139.56666666666666,Attente prolongée poste à quai,33932,239.06,14.29,15,0.71,Vent fort,Q9,Dimanche,7,2024
+Vraquier Synth-105,IMO9600104,Vraquier,Port d'Alger,2023-04-10 00:20,2023-04-17 20:57,188h37,188.61666666666667,Attente silo disponible (saturation),11706,163.2,11.48,15,0.72,Houle,Q11,Lundi,4,2023
+Céréalier Synth-106,IMO9600105,Céréalier,Port d'Alger,2024-11-20 03:10,2024-11-25 08:27,125h17,125.28333333333333,Encombrement quai sévère,51218,162.96,9.73,20,0.82,Vent fort,Q3,Mercredi,11,2024
+Porte-conteneurs Synth-107,IMO9600106,Porte-conteneurs,Port d'Alger,2022-07-21 06:10,2022-08-04 22:32,352h22,352.3666666666667,Encombrement quai sévère,57381,275.5,15.69,10,0.7,Beau temps,Q4,Jeudi,7,2022
+Roulier Synth-108,IMO9600107,Roulier (Ro-Ro),Port d'Alger,2024-02-18 17:05,2024-02-23 18:34,121h29,121.48333333333333,Panne grue portuaire majeure,34247,133.38,9.33,8,0.7,Houle,Q9,Dimanche,2,2024
+Porte-conteneurs Synth-109,IMO9600108,Porte-conteneurs,Port d'Alger,2022-10-24 16:05,2022-11-01 21:18,197h13,197.21666666666667,Panne grue portuaire majeure,69493,276.16,18.13,12,0.7,Beau temps,Q7,Lundi,10,2022
+Vraquier Synth-110,IMO9600109,Vraquier,Port d'Alger,2024-09-02 16:35,2024-09-11 22:00,221h25,221.41666666666666,Avarie technique nécessitant expertise,40999,138.66,10.74,19,0.88,Mer agitée,Q5,Lundi,9,2024
+Vraquier Synth-111,IMO9600110,Vraquier,Port d'Alger,2022-08-15 20:15,2022-08-23 04:40,176h25,176.41666666666666,Pénurie de pilotes,57548,184.21,10.25,13,0.7,Houle,Q12,Lundi,8,2022
+Pétrolier Synth-112,IMO9600111,Pétrolier,Port d'Alger,2022-08-14 02:20,2022-08-28 22:07,355h47,355.78333333333336,Grève des dockers,14365,204.6,11.37,9,0.7,Mer agitée,Q10,Dimanche,8,2022
+Roulier Synth-113,IMO9600112,Roulier (Ro-Ro),Port d'Alger,2023-07-31 12:55,2023-08-13 03:34,302h39,302.65,Tempête majeure / Fermeture du port,40256,187.98,10.48,19,0.77,Vent fort,Q8,Lundi,7,2023
+Porte-conteneurs Synth-114,IMO9600113,Porte-conteneurs,Port d'Alger,2023-06-26 01:00,2023-07-09 11:51,322h51,322.85,Tempête majeure / Fermeture du port,46073,293.56,17.55,12,0.7,Mer agitée,Q8,Lundi,6,2023
+Pétrolier Synth-115,IMO9600114,Pétrolier,Port d'Alger,2023-01-29 02:10,2023-02-07 00:54,214h44,214.73333333333332,Panne système informatique portuaire,57535,214.18,15.38,14,0.7,Houle,Q12,Dimanche,1,2023
+Porte-conteneurs Synth-116,IMO9600115,Porte-conteneurs,Port d'Alger,2023-12-23 23:10,2024-01-01 05:16,198h06,198.1,Tempête majeure / Fermeture du port,46505,265.03,15.7,15,0.8,Mer agitée,Q11,Samedi,12,2023
+Pétrolier Synth-117,IMO9600116,Pétrolier,Port d'Alger,2024-04-08 00:55,2024-04-19 10:56,274h01,274.01666666666665,Avarie technique nécessitant expertise,57097,189.02,13.45,18,0.8,Beau temps,Q9,Lundi,4,2024
+Pétrolier Synth-118,IMO9600117,Pétrolier,Port d'Alger,2022-01-06 01:25,2022-01-11 21:50,140h25,140.41666666666666,Panne grue portuaire majeure,53159,159.93,8.73,15,0.77,Vent fort,Q7,Jeudi,1,2022
+Céréalier Synth-119,IMO9600118,Céréalier,Port d'Alger,2024-08-23 02:00,2024-09-01 20:46,234h46,234.76666666666668,Encombrement quai sévère,16262,210.59,11.98,14,0.7,Houle,Q10,Vendredi,8,2024
+Roulier Synth-120,IMO9600119,Roulier (Ro-Ro),Port d'Alger,2024-07-22 05:10,2024-08-02 22:53,281h43,281.71666666666664,Tempête majeure / Fermeture du port,23674,134.67,9.79,8,0.7,Vent fort,Q9,Lundi,7,2024
+Porte-conteneurs Synth-121,IMO9600120,Porte-conteneurs,Port d'Alger,2024-10-21 15:55,2024-10-28 15:41,167h46,167.76666666666668,Attente silo disponible (saturation),58361,200.76,13.14,12,0.7,Beau temps,Q4,Lundi,10,2024
+Porte-conteneurs Synth-122,IMO9600121,Porte-conteneurs,Port d'Alger,2023-04-21 05:15,2023-05-01 15:30,250h15,250.25,Tempête majeure / Fermeture du port,22288,279.53,17.79,8,0.7,Vent fort,Q2,Vendredi,4,2023
+Vraquier Synth-123,IMO9600122,Vraquier,Port d'Alger,2023-06-24 11:55,2023-06-30 16:20,148h25,148.41666666666666,Tempête majeure / Fermeture du port,11841,206.06,12.56,17,0.84,Mer agitée,Q1,Samedi,6,2023
+Porte-conteneurs Synth-124,IMO9600123,Porte-conteneurs,Port d'Alger,2022-05-27 13:50,2022-06-02 05:52,136h02,136.03333333333333,Contrôle sanitaire approfondi,22060,257.57,14.51,26,0.93,Brouillard,Q8,Vendredi,5,2022
+Cimentier Synth-125,IMO9600124,Cimentier,Port d'Alger,2024-04-14 21:00,2024-04-19 22:48,121h48,121.8,Attente prolongée poste à quai,27183,120.86,7.46,18,0.76,Vent fort,Q1,Dimanche,4,2024
+Vraquier Synth-126,IMO9600125,Vraquier,Port d'Alger,2022-07-08 16:00,2022-07-16 02:24,178h24,178.4,Encombrement quai sévère,71162,118.37,8.33,10,0.7,Vent fort,Q7,Vendredi,7,2022
+Roulier Synth-127,IMO9600126,Roulier (Ro-Ro),Port d'Alger,2023-02-01 16:40,2023-02-07 16:32,143h52,143.86666666666667,Panne grue portuaire majeure,43611,170.69,12.5,16,0.75,Vent fort,Q11,Mercredi,2,2023
+Porte-conteneurs Synth-128,IMO9600127,Porte-conteneurs,Port d'Alger,2022-11-03 18:45,2022-11-10 14:13,163h28,163.46666666666667,Grève des dockers,95687,237.82,15.04,17,0.71,Vent fort,Q10,Jeudi,11,2022
+Vraquier Synth-129,IMO9600128,Vraquier,Port d'Alger,2022-11-06 18:30,2022-11-16 05:52,227h22,227.36666666666667,Avarie technique nécessitant expertise,38094,211.75,13.88,9,0.7,Beau temps,Q11,Dimanche,11,2022
+Pétrolier Synth-130,IMO9600129,Pétrolier,Port d'Alger,2023-02-04 07:25,2023-02-14 11:19,243h54,243.9,Encombrement quai sévère,32526,165.91,8.71,14,0.8,Vent fort,Q2,Samedi,2,2023
+Vraquier Synth-131,IMO9600130,Vraquier,Port d'Alger,2023-03-23 05:25,2023-04-05 16:07,322h42,322.7,Attente silo disponible (saturation),62816,147.23,10.62,15,0.74,Beau temps,Q7,Jeudi,3,2023
+Vraquier Synth-132,IMO9600131,Vraquier,Port d'Alger,2024-04-21 06:50,2024-05-03 09:20,290h30,290.5,Encombrement quai sévère,21801,159.93,8.27,12,0.7,Mer agitée,Q11,Dimanche,4,2024
+Porte-conteneurs Synth-133,IMO9600132,Porte-conteneurs,Port d'Alger,2023-07-16 18:50,2023-07-23 10:51,160h01,160.01666666666668,Panne grue portuaire majeure,50452,303.24,16.54,22,0.84,Beau temps,Q10,Dimanche,7,2023
+Porte-conteneurs Synth-134,IMO9600133,Porte-conteneurs,Port d'Alger,2024-02-26 00:15,2024-03-11 03:08,338h53,338.8833333333333,Attente silo disponible (saturation),114780,314.03,20.0,22,0.84,Vent fort,Q9,Lundi,2,2024
+Pétrolier Synth-135,IMO9600134,Pétrolier,Port d'Alger,2024-10-16 04:00,2024-10-25 01:46,213h46,213.76666666666668,Attente silo disponible (saturation),29682,224.33,16.79,16,0.7,Houle,Q9,Mercredi,10,2024
+Vraquier Synth-136,IMO9600135,Vraquier,Port d'Alger,2023-02-14 19:40,2023-02-26 15:52,284h12,284.2,Encombrement quai sévère,76044,145.88,8.74,25,0.83,Beau temps,Q10,Mardi,2,2023
+Roulier Synth-137,IMO9600136,Roulier (Ro-Ro),Port d'Alger,2024-03-08 11:25,2024-03-15 19:42,176h17,176.28333333333333,Tempête majeure / Fermeture du port,8270,128.48,6.88,9,0.7,Mer agitée,Q9,Vendredi,3,2024
+Céréalier Synth-138,IMO9600137,Céréalier,Port d'Alger,2022-06-13 08:15,2022-06-24 11:35,267h20,267.3333333333333,Saturation totale du port,11867,192.49,10.37,19,0.74,Vent fort,Q6,Lundi,6,2022
+Porte-conteneurs Synth-139,IMO9600138,Porte-conteneurs,Port d'Alger,2023-01-12 07:15,2023-01-23 06:01,262h46,262.76666666666665,Tempête majeure / Fermeture du port,129291,158.81,10.07,16,0.74,Vent fort,Q11,Jeudi,1,2023
+Céréalier Synth-140,IMO9600139,Céréalier,Port d'Alger,2022-03-06 16:50,2022-03-16 23:17,246h27,246.45,Attente prolongée poste à quai,33809,166.92,10.64,10,0.7,Vent fort,Q7,Dimanche,3,2022
+Vraquier Synth-141,IMO9600140,Vraquier,Port d'Alger,2024-02-18 16:00,2024-02-28 00:09,224h09,224.15,Tempête majeure / Fermeture du port,55584,180.79,11.83,17,0.8,Houle,Q8,Dimanche,2,2024
+Roulier Synth-142,IMO9600141,Roulier (Ro-Ro),Port d'Alger,2024-04-24 11:35,2024-05-09 04:59,353h24,353.4,Tempête majeure / Fermeture du port,33833,151.58,10.56,17,0.75,Vent fort,Q2,Mercredi,4,2024
+Vraquier Synth-143,IMO9600142,Vraquier,Port d'Alger,2022-08-25 02:35,2022-08-31 17:17,158h42,158.7,Avarie technique nécessitant expertise,9990,134.84,7.6,14,0.7,Mer agitée,Q9,Jeudi,8,2022
+Vraquier Synth-144,IMO9600143,Vraquier,Port d'Alger,2024-10-06 17:55,2024-10-12 14:15,140h20,140.33333333333334,Attente silo disponible (saturation),67272,165.6,11.69,11,0.7,Vent fort,Q11,Dimanche,10,2024
+Vraquier Synth-145,IMO9600144,Vraquier,Port d'Alger,2024-04-30 00:55,2024-05-13 11:37,322h42,322.7,Attente prolongée poste à quai,8389,132.61,7.73,10,0.7,Mer agitée,Q9,Mardi,4,2024
+Pétrolier Synth-146,IMO9600145,Pétrolier,Port d'Alger,2024-03-09 19:35,2024-03-15 07:26,131h51,131.85,Saturation totale du port,51144,167.18,10.78,8,0.7,Beau temps,Q11,Samedi,3,2024
+Pétrolier Synth-147,IMO9600146,Pétrolier,Port d'Alger,2024-03-20 10:15,2024-04-02 22:58,324h43,324.71666666666664,Tempête majeure / Fermeture du port,53666,203.0,14.14,17,0.83,Vent fort,Q5,Mercredi,3,2024
+Vraquier Synth-148,IMO9600147,Vraquier,Port d'Alger,2022-07-10 10:15,2022-07-18 11:40,193h25,193.41666666666666,Attente silo disponible (saturation),48067,126.98,7.63,15,0.7,Beau temps,Q12,Dimanche,7,2022
+Cimentier Synth-149,IMO9600148,Cimentier,Port d'Alger,2023-07-17 16:30,2023-07-29 05:30,277h00,277.0,Tempête majeure / Fermeture du port,22630,155.59,9.49,12,0.7,Vent fort,Q4,Lundi,7,2023
+Roulier Synth-150,IMO9600149,Roulier (Ro-Ro),Port d'Alger,2024-07-18 18:55,2024-07-25 08:30,157h35,157.58333333333334,Attente prolongée poste à quai,11353,189.22,12.86,10,0.7,Brouillard,Q3,Jeudi,7,2024
